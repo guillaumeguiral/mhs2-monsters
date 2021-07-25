@@ -1,0 +1,2867 @@
+[
+  {
+    "name": {
+      "en": "Agnaktor",
+      "fr": "Agnaktor"
+    },
+    "location": {
+      "en": "Base du volcan Terga · Terga",
+      "fr": "Base du volcan Terga · Terga"
+    },
+    "retreat": {
+      "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
+      "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
+    },
+    "attackTypes": {
+      "beforeMoltenUppercut": "speed",
+      "afterMoltenUppercut": "power",
+      "enraged": "technical"
+    },
+    "elementWeakness": "water",
+    "partsWeakness": {
+      "head": "slash",
+      "body": "slash",
+      "tail": "slash"
+    }
+  },
+  {
+    "name": {
+      "en": "Glacial Agnaktor",
+      "fr": "Agnaktor glacial"
+    },
+    "location": {
+      "en": "Canyon roche Loloska · Loloska",
+      "fr": "Canyon roche Loloska · Loloska"
+    },
+    "retreat": {
+      "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
+      "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
+    },
+    "attackTypes": {
+      "initial": "technical",
+      "iceArmor": "power",
+      "enraged": "speed"
+    },
+    "elementWeakness": "fire",
+    "partsWeakness": {
+      "head": "blunt",
+      "body": "blunt",
+      "tail": "blunt",
+      "iceHead": "slash",
+      "iceBody": "slash",
+      "iceTail": "slash"
+    }
+  },
+  {
+    "name": {
+      "en": "Altaroth",
+      "fr": "Altaroth"
+    },
+    "location": {
+      "en": "Base du volcan Terga · Terga",
+      "fr": "Base du volcan Terga · Terga"
+    },
+    "retreat": {
+      "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
+      "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
+    },
+    "attackTypes": {},
+    "elementWeakness": null,
+    "partsWeakness": {}
+  },
+  {
+    "name": {
+      "en": "Anjanath",
+      "fr": "Anjanath"
+    },
+    "location": {
+      "en": "Forêt de Loloska · Loloska",
+      "fr": "Forêt de Loloska · Loloska"
+    },
+    "retreat": {
+      "en": "Brisez le nez avec une attaque d'élément eau pour augmenter les chances de repli.",
+      "fr": "Brisez le nez avec une attaque d'élément eau pour augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "speed",
+      "enraged": "power"
+    },
+    "elementWeakness": "water",
+    "partsWeakness": {
+      "nose": "blunt",
+      "body": "pierce"
+    }
+  },
+  {
+    "name": {
+      "en": "Fulgur Anjanath",
+      "fr": "Anjanath tonnerre"
+    },
+    "location": {
+      "en": "Pied du mont Lavina · Loloska",
+      "fr": "Pied du mont Lavina · Loloska"
+    },
+    "retreat": {
+      "en": "Brisez le nez avec une attaque d'élément glace pour grandement augmenter les chances de repli.",
+      "fr": "Brisez le nez avec une attaque d'élément glace pour grandement augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "power",
+      "enraged": "speed"
+    },
+    "elementWeakness": "ice",
+    "partsWeakness": {
+      "body": "pierce"
+    }
+  },
+  {
+    "name": {
+      "en": "Apceros",
+      "fr": "Apceros"
+    },
+    "location": {
+      "en": "Hautes-terres Alcala · Alcala",
+      "fr": "Hautes-terres Alcala · Alcala"
+    },
+    "retreat": {
+      "en": "Touchez le monstre avec un marqueur et battez-le rapidement pour augmenter les chances de repli.",
+      "fr": "Touchez le monstre avec un marqueur et battez-le rapidement pour augmenter les chances de repli."
+    },
+    "attackTypes": {},
+    "elementWeakness": null,
+    "partsWeakness": {}
+  },
+  {
+    "name": {
+      "en": "Aptonoth",
+      "fr": "Aptonoth"
+    },
+    "location": {
+      "en": "Cap nord Kamuna · Île Hakolo",
+      "fr": "Cap nord Kamuna · Île Hakolo"
+    },
+    "retreat": {
+      "en": "Touchez le monstre avec un marqueur et battez-le rapidement pour augmenter les chances de repli.",
+      "fr": "Touchez le monstre avec un marqueur et battez-le rapidement pour augmenter les chances de repli."
+    },
+    "attackTypes": {},
+    "elementWeakness": null,
+    "partsWeakness": {}
+  },
+  {
+    "name": {
+      "en": "Arzuros",
+      "fr": "Arzuros"
+    },
+    "location": {
+      "en": "Hautes-terres Alcala · Alcala",
+      "fr": "Hautes-terres Alcala · Alcala"
+    },
+    "retreat": {
+      "en": "Effrayez le monstre avec une bombe sonique pour augmenter les chances de repli.",
+      "fr": "Effrayez le monstre avec une bombe sonique pour augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "power",
+      "enraged": "technical"
+    },
+    "elementWeakness": "fire",
+    "partsWeakness": {
+      "stomach": "slash",
+      "legs": "blunt"
+    }
+  },
+  {
+    "name": {
+      "en": "Astalos",
+      "fr": "Astalos"
+    },
+    "location": {
+      "en": "Base du volcan Terga · Terga",
+      "fr": "Base du volcan Terga · Terga"
+    },
+    "retreat": {
+      "en": "Attaquez avec un talent d'amitié de Gammoth pour grandement augmenter les chances de repli.",
+      "fr": "Attaquez avec un talent d'amitié de Gammoth pour grandement augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "technical",
+      "electrify": "power",
+      "flyingEnraged": "speed"
+    },
+    "elementWeakness": "ice",
+    "partsWeakness": {
+      "head": "blunt",
+      "stomach": "slash",
+      "tail": "slash",
+      "wings": "blunt"
+    }
+  },
+  {
+    "name": {
+      "en": "Avmar",
+      "fr": "Avmar"
+    },
+    "location": {
+      "en": "Cap nord Kamuna · Île Hakolo",
+      "fr": "Cap nord Kamuna · Île Hakolo"
+    },
+    "retreat": {
+      "en": "Touchez le monstre avec un marqueur et battez-le rapidement pour augmenter les chances de repli.",
+      "fr": "Touchez le monstre avec un marqueur et battez-le rapidement pour augmenter les chances de repli."
+    },
+    "attackTypes": {},
+    "elementWeakness": null,
+    "partsWeakness": {}
+  },
+  {
+    "name": {
+      "en": "Baggi",
+      "fr": "Baggi"
+    },
+    "location": {
+      "en": "Pied du mont Lavina · Loloska",
+      "fr": "Pied du mont Lavina · Loloska"
+    },
+    "retreat": {
+      "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
+      "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
+    },
+    "attackTypes": {},
+    "elementWeakness": null,
+    "partsWeakness": {}
+  },
+  {
+    "name": {
+      "en": "Barioth",
+      "fr": "Barioth"
+    },
+    "location": {
+      "en": "Canyon roche Loloska · Loloska",
+      "fr": "Canyon roche Loloska · Loloska"
+    },
+    "retreat": {
+      "en": "Brisez les pointes avec une attaque d'élément feu pour grandement augmenter les chances de repli.",
+      "fr": "Brisez les pointes avec une attaque d'élément feu pour grandement augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "speed",
+      "enraged": "power"
+    },
+    "elementWeakness": "fire",
+    "partsWeakness": {
+      "spikes": "blunt",
+      "stomach": "slash",
+      "tail": "slash"
+    }
+  },
+  {
+    "name": {
+      "en": "Barioth sables",
+      "fr": "Barioth sables"
+    },
+    "location": {
+      "en": "Terres interdites · Île Hakolo",
+      "fr": "Terres interdites · Île Hakolo"
+    },
+    "retreat": {
+      "en": "Brisez les pointes avec une corne de chasse d'élément glace pour grandement augmenter les chances de repli.",
+      "fr": "Brisez les pointes avec une corne de chasse d'élément glace pour grandement augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "speed",
+      "enraged": "technical"
+    },
+    "elementWeakness": "ice",
+    "partsWeakness": {
+      "spikes": "blunt",
+      "stomach": "slash",
+      "tail": "slash"
+    }
+  },
+  {
+    "name": {
+      "en": "Barroth",
+      "fr": "Barroth"
+    },
+    "location": {
+      "en": "Canyon roche Loloska · Loloska",
+      "fr": "Canyon roche Loloska · Loloska"
+    },
+    "retreat": {
+      "en": "Enlevez sa protection de boue avec une attaque d'élément eau pour augmenter les chances de repli.",
+      "fr": "Enlevez sa protection de boue avec une attaque d'élément eau pour augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "speed",
+      "coveredInMud": "technical"
+    },
+    "elementWeakness": "fire",
+    "partsWeakness": {
+      "head": "blunt",
+      "body": "slash",
+      "legs": "slash",
+      "tail": "pierce"
+    }
+  },
+  {
+    "name": {
+      "en": "Jade Barroth",
+      "fr": "Barroth de jade"
+    },
+    "location": {
+      "en": "Pic enneigé Lavina · Loloska",
+      "fr": "Pic enneigé Lavina · Loloska"
+    },
+    "retreat": {
+      "en": "Enlevez sa protection de neige avec une attaque d'élément foudre pour augmenter les chances de repli.",
+      "fr": "Enlevez sa protection de neige avec une attaque d'élément foudre pour augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "power",
+      "coveredInSnow": "technical",
+      "enraged": "speed"
+    },
+    "elementWeakness": null,
+    "partsWeakness": {
+      "head": "blunt",
+      "body": "slash",
+      "legs": "slash",
+      "tail": "pierce"
+    }
+  },
+  {
+    "name": {
+      "en": "Basarios",
+      "fr": "Basarios"
+    },
+    "location": {
+      "en": "Colline Harzgai · Alcala",
+      "fr": "Colline Harzgai · Alcala"
+    },
+    "retreat": {
+      "en": "Brisez chaque partie pour augmenter les chances de repli.",
+      "fr": "Brisez chaque partie pour augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "technical",
+      "enraged": "power"
+    },
+    "elementWeakness": "water",
+    "partsWeakness": {
+      "head": null,
+      "wings": "pierce",
+      "stomach": "pierce",
+      "tail": "pierce"
+    }
+  },
+  {
+    "name": {
+      "en": "Ruby Basarios",
+      "fr": "Basarios rubis"
+    },
+    "location": {
+      "en": "Jardin de Pomore · Lamure",
+      "fr": "Jardin de Pomore · Lamure"
+    },
+    "retreat": {
+      "en": "Brisez chaque partie pour augmenter les chances de repli.",
+      "fr": "Brisez chaque partie pour augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "technical",
+      "enraged": "power"
+    },
+    "elementWeakness": "ice",
+    "partsWeakness": {
+      "head": "blunt",
+      "wings": "pierce",
+      "stomach": "blunt",
+      "tail": "slash"
+    }
+  },
+  {
+    "name": {
+      "en": "Bazelgeuse",
+      "fr": "Bazelgeuse"
+    },
+    "location": {
+      "en": "Terres interdites · Île Hakolo",
+      "fr": "Terres interdites · Île Hakolo"
+    },
+    "retreat": {
+      "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
+      "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
+    },
+    "attackTypes": {
+      "initial": "speed",
+      "enraged": "technical"
+    },
+    "elementWeakness": "thunder",
+    "partsWeakness": {
+      "head": "blunt",
+      "stomach": "slash",
+      "tail": "slash",
+      "wings": "pierce"
+    }
+  },
+  {
+    "name": {
+      "en": "Bnahabra (bleu)",
+      "fr": "Bnahabra (bleu)"
+    },
+    "location": {
+      "en": "Cap nord Kamuna · Île Hakolo",
+      "fr": "Cap nord Kamuna · Île Hakolo"
+    },
+    "retreat": {
+      "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
+      "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
+    },
+    "attackTypes": {},
+    "elementWeakness": null,
+    "partsWeakness": {}
+  },
+  {
+    "name": {
+      "en": "Bnahabra (brun)",
+      "fr": "Bnahabra (brun)"
+    },
+    "location": {
+      "en": "Cap nord Kamuna · Île Hakolo",
+      "fr": "Cap nord Kamuna · Île Hakolo"
+    },
+    "retreat": {
+      "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
+      "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
+    },
+    "attackTypes": {},
+    "elementWeakness": null,
+    "partsWeakness": {}
+  },
+  {
+    "name": {
+      "en": "Bnahabra (rouge)",
+      "fr": "Bnahabra (rouge)"
+    },
+    "location": {
+      "en": "Cap nord Kamuna · Île Hakolo",
+      "fr": "Cap nord Kamuna · Île Hakolo"
+    },
+    "retreat": {
+      "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
+      "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
+    },
+    "attackTypes": {},
+    "elementWeakness": null,
+    "partsWeakness": {}
+  },
+  {
+    "name": {
+      "en": "Bnahabra (vert)",
+      "fr": "Bnahabra (vert)"
+    },
+    "location": {
+      "en": "Cap nord Kamuna · Île Hakolo",
+      "fr": "Cap nord Kamuna · Île Hakolo"
+    },
+    "retreat": {
+      "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
+      "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
+    },
+    "attackTypes": {},
+    "elementWeakness": null,
+    "partsWeakness": {}
+  },
+  {
+    "name": {
+      "en": "Brachydios",
+      "fr": "Brachydios"
+    },
+    "location": {
+      "en": "Base du volcan Terga · Terga",
+      "fr": "Base du volcan Terga · Terga"
+    },
+    "retreat": {
+      "en": "Brisez le poing avec un marteau d'élément eau pour grandement augmenter les chances de repli.",
+      "fr": "Brisez le poing avec un marteau d'élément eau pour grandement augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "power",
+      "enraged": "speed"
+    },
+    "elementWeakness": "water",
+    "partsWeakness": {
+      "head": "slash",
+      "body": "slash",
+      "fists": "blunt",
+      "tail": "pierce"
+    }
+  },
+  {
+    "name": {
+      "en": "Bulldrome",
+      "fr": "Bulldrome"
+    },
+    "location": {
+      "en": "Cap nord Kamuna · Île Hakolo",
+      "fr": "Cap nord Kamuna · Île Hakolo"
+    },
+    "retreat": {
+      "en": "Touchez le monstre avec un marqueur et battez-le rapidement pour augmenter les chances de repli.",
+      "fr": "Touchez le monstre avec un marqueur et battez-le rapidement pour augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "power",
+      "enraged": "speed"
+    },
+    "elementWeakness": "thunder",
+    "partsWeakness": {}
+  },
+  {
+    "name": {
+      "en": "Bullfango",
+      "fr": "Bullfango"
+    },
+    "location": {
+      "en": "Cap nord Kamuna · Île Hakolo",
+      "fr": "Cap nord Kamuna · Île Hakolo"
+    },
+    "retreat": {
+      "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
+      "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
+    },
+    "attackTypes": {},
+    "elementWeakness": null,
+    "partsWeakness": {}
+  },
+  {
+    "name": {
+      "en": "Cephadrome",
+      "fr": "Cephadrome"
+    },
+    "location": {
+      "en": "Terres désolées Sadona · Lamure",
+      "fr": "Terres désolées Sadona · Lamure"
+    },
+    "retreat": {
+      "en": "Faites sortir le monstre du sol avec une bombe sonique pour augmenter les chances de repli.",
+      "fr": "Faites sortir le monstre du sol avec une bombe sonique pour augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "speed",
+      "enraged": "technical"
+    },
+    "elementWeakness": "ice",
+    "partsWeakness": {
+      "back": "pierce",
+      "stomach": "blunt",
+      "tail": "slash"
+    }
+  },
+  {
+    "name": {
+      "en": "Cephalos",
+      "fr": "Cephalos"
+    },
+    "location": {
+      "en": "Terres désolées Sadona · Lamure",
+      "fr": "Terres désolées Sadona · Lamure"
+    },
+    "retreat": {
+      "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
+      "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
+    },
+    "attackTypes": {},
+    "elementWeakness": null,
+    "partsWeakness": {}
+  },
+  {
+    "name": {
+      "en": "Conga",
+      "fr": "Conga"
+    },
+    "location": {
+      "en": "Forêt de Loloska · Loloska",
+      "fr": "Forêt de Loloska · Loloska"
+    },
+    "retreat": {
+      "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
+      "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
+    },
+    "attackTypes": {},
+    "elementWeakness": null,
+    "partsWeakness": {}
+  },
+  {
+    "name": {
+      "en": "Congalala",
+      "fr": "Congalala"
+    },
+    "location": {
+      "en": "Forêt de Loloska · Loloska",
+      "fr": "Forêt de Loloska · Loloska"
+    },
+    "retreat": {
+      "en": "Brisez la tête avec un marteau pour augmenter les chances de repli.",
+      "fr": "Brisez la tête avec un marteau pour augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "technical",
+      "enraged": "power"
+    },
+    "elementWeakness": "fire",
+    "partsWeakness": {
+      "head": "blunt",
+      "body": "pierce",
+      "tail": "slash"
+    }
+  },
+  {
+    "name": {
+      "en": "Emerald Congalala",
+      "fr": "Congalala émeraude"
+    },
+    "location": {
+      "en": "Base du volcan Terga · Terga",
+      "fr": "Base du volcan Terga · Terga"
+    },
+    "retreat": {
+      "en": "Brisez la tête avec une corne de chasse d'élément feu pour augmenter les chances de repli.",
+      "fr": "Brisez la tête avec une corne de chasse d'élément feu pour augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "power",
+      "enraged": "technical"
+    },
+    "elementWeakness": "ice",
+    "partsWeakness": {
+      "head": "blunt",
+      "body": "pierce",
+      "tail": "slash"
+    }
+  },
+  {
+    "name": {
+      "en": "Deviljho",
+      "fr": "Deviljho"
+    },
+    "location": {
+      "en": "Terres interdites · Île Hakolo",
+      "fr": "Terres interdites · Île Hakolo"
+    },
+    "retreat": {
+      "en": "Lancez une attaque d'élément dragon quand le monstre est empoisonné pour grandement augmenter les chances de repli.",
+      "fr": "Lancez une attaque d'élément dragon quand le monstre est empoisonné pour grandement augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "power",
+      "enraged": "speed"
+    },
+    "elementWeakness": "dragon",
+    "partsWeakness": {
+      "head": "slash",
+      "body": "blunt",
+      "legs": "slash",
+      "tail": "slash"
+    }
+  },
+  {
+    "name": {
+      "en": "Diablos",
+      "fr": "Diablos"
+    },
+    "location": {
+      "en": "Entrée tour Lamure · Lamure",
+      "fr": "Entrée tour Lamure · Lamure"
+    },
+    "retreat": {
+      "en": "Faites sortir le monstre du sol avec une bombe sonique puis détruisez ses cornes quand il est à terre pour grandement augmenter les chances de repli.",
+      "fr": "Faites sortir le monstre du sol avec une bombe sonique puis détruisez ses cornes quand il est à terre pour grandement augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "power",
+      "enraged": "speed"
+    },
+    "elementWeakness": "ice",
+    "partsWeakness": {
+      "horn": "blunt",
+      "legs": "pierce",
+      "tail": "slash"
+    }
+  },
+  {
+    "name": {
+      "en": "Bloodbath Diablos",
+      "fr": "Diablos Bain-de-sang"
+    },
+    "location": {
+      "en": "Grand-plateau Jalma · Lamure",
+      "fr": "Grand-plateau Jalma · Lamure"
+    },
+    "retreat": {
+      "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
+      "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
+    },
+    "attackTypes": {
+      "initial": "speed",
+      "enraged": "technical"
+    },
+    "elementWeakness": "water",
+    "partsWeakness": {
+      "head": "slash",
+      "stomach": "blunt",
+      "legs": "blunt",
+      "tail": "slash"
+    }
+  },
+  {
+    "name": {
+      "en": "Black Diablos",
+      "fr": "Diablos noire"
+    },
+    "location": {
+      "en": "Tour Lamure : étage 4 · Lamure",
+      "fr": "Tour Lamure : étage 4 · Lamure"
+    },
+    "retreat": {
+      "en": "Faites sortir le monstre du sol avec une bombe sonique puis détruisez ses cornes quand il est à terre pour grandement augmenter les chances de repli.",
+      "fr": "Faites sortir le monstre du sol avec une bombe sonique puis détruisez ses cornes quand il est à terre pour grandement augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "power",
+      "enraged": "speed"
+    },
+    "elementWeakness": "ice",
+    "partsWeakness": {
+      "horn": "blunt",
+      "legs": "slash",
+      "tail": "slash"
+    }
+  },
+  {
+    "name": {
+      "en": "Duramboros",
+      "fr": "Duramboros"
+    },
+    "location": {
+      "en": "Forêt des vagabonds · Alcala",
+      "fr": "Forêt des vagabonds · Alcala"
+    },
+    "retreat": {
+      "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
+      "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
+    },
+    "attackTypes": {
+      "initial": "power",
+      "enraged": "technical"
+    },
+    "elementWeakness": "fire",
+    "partsWeakness": {
+      "body": "blunt",
+      "legs": "slashing",
+      "tail": "blunt"
+    }
+  },
+  {
+    "name": {
+      "en": "Fatalis",
+      "fr": "Fatalis"
+    },
+    "location": {
+      "en": null,
+      "fr": null
+    },
+    "retreat": {
+      "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
+      "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
+    },
+    "attackTypes": {},
+    "elementWeakness": null,
+    "partsWeakness": {}
+  },
+  {
+    "name": {
+      "en": "Gammoth",
+      "fr": "Gammoth"
+    },
+    "location": {
+      "en": "Région boisée · Loloska",
+      "fr": "Région boisée · Loloska"
+    },
+    "retreat": {
+      "en": "Attaquez avec un talent d'amitié de Glavenus pour grandement augmenter les chances de repli.",
+      "fr": "Attaquez avec un talent d'amitié de Glavenus pour grandement augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "power",
+      "snowSlurp": "power"
+    },
+    "elementWeakness": "fire",
+    "partsWeakness": {
+      "head": "blunt",
+      "nose": "slash",
+      "tail": "slash",
+      "legs": "blunt",
+      "body": "blunt"
+    }
+  },
+  {
+    "name": {
+      "en": "Gammoth Givre-ancien",
+      "fr": "Gammoth Givre-ancien"
+    },
+    "location": {
+      "en": "Pic enneigé Lavina · Loloska",
+      "fr": "Pic enneigé Lavina · Loloska"
+    },
+    "retreat": {
+      "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
+      "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
+    },
+    "attackTypes": {},
+    "elementWeakness": null,
+    "partsWeakness": {}
+  },
+  {
+    "name": {
+      "en": "Gargwa",
+      "fr": "Gargwa"
+    },
+    "location": {
+      "en": "Hautes-terres Alcala · Alcala",
+      "fr": "Hautes-terres Alcala · Alcala"
+    },
+    "retreat": {
+      "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
+      "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
+    },
+    "attackTypes": {},
+    "elementWeakness": null,
+    "partsWeakness": {}
+  },
+  {
+    "name": {
+      "en": "Gendrome",
+      "fr": "Gendrome"
+    },
+    "location": {
+      "en": "Tour Lamure : étage 2 · Lamure",
+      "fr": "Tour Lamure : étage 2 · Lamure"
+    },
+    "retreat": {
+      "en": "Touchez le monstre avec un marqueur et battez-le rapidement pour augmenter les chances de repli.",
+      "fr": "Touchez le monstre avec un marqueur et battez-le rapidement pour augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "speed",
+      "enraged": "technical"
+    },
+    "elementWeakness": "ice",
+    "partsWeakness": {}
+  },
+  {
+    "name": {
+      "en": "Genprey",
+      "fr": "Genprey"
+    },
+    "location": {
+      "en": "Tour Lamure : étage 2 · Lamure",
+      "fr": "Tour Lamure : étage 2 · Lamure"
+    },
+    "retreat": {
+      "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
+      "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
+    },
+    "attackTypes": {},
+    "elementWeakness": null,
+    "partsWeakness": {}
+  },
+  {
+    "name": {
+      "en": "Glavenus",
+      "fr": "Glavenus"
+    },
+    "location": {
+      "en": "Vallée d'Alcala · Alcala",
+      "fr": "Vallée d'Alcala · Alcala"
+    },
+    "retreat": {
+      "en": "Attaquez avec un talent d'amitié de Mizutsune pour grandement augmenter les chances de repli.",
+      "fr": "Attaquez avec un talent d'amitié de Mizutsune pour grandement augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "power",
+      "blaze": "speed",
+      "afterFireChakram": "technical"
+    },
+    "elementWeakness": "water",
+    "partsWeakness": {
+      "head": "slash",
+      "body": "blunt",
+      "tail": "nothing"
+    }
+  },
+  {
+    "name": {
+      "en": "Great Baggi",
+      "fr": "Grand Baggi"
+    },
+    "location": {
+      "en": "Pied du mont Lavina · Loloska",
+      "fr": "Pied du mont Lavina · Loloska"
+    },
+    "retreat": {
+      "en": "Touchez le monstre avec un marqueur et battez-le rapidement pour augmenter les chances de repli.",
+      "fr": "Touchez le monstre avec un marqueur et battez-le rapidement pour augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "speed",
+      "enraged": "technical"
+    },
+    "elementWeakness": "fire",
+    "partsWeakness": {}
+  },
+  {
+    "name": {
+      "en": "Grand Foudrinsecte",
+      "fr": "Grand Foudrinsecte"
+    },
+    "location": {
+      "en": "Base du volcan Terga · Terga",
+      "fr": "Base du volcan Terga · Terga"
+    },
+    "retreat": {
+      "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
+      "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
+    },
+    "attackTypes": {},
+    "elementWeakness": null,
+    "partsWeakness": {}
+  },
+  {
+    "name": {
+      "en": "Grand Insecte dracophage",
+      "fr": "Grand Insecte dracophage"
+    },
+    "location": {
+      "en": "Terres interdites · Île Hakolo",
+      "fr": "Terres interdites · Île Hakolo"
+    },
+    "retreat": {
+      "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
+      "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
+    },
+    "attackTypes": {},
+    "elementWeakness": null,
+    "partsWeakness": {}
+  },
+  {
+    "name": {
+      "en": "Great Jaggi",
+      "fr": "Grand Jaggi"
+    },
+    "location": {
+      "en": "Hautes-terres Alcala · Alcala",
+      "fr": "Hautes-terres Alcala · Alcala"
+    },
+    "retreat": {
+      "en": "Touchez le monstre avec un marqueur et battez-le rapidement pour augmenter les chances de repli.",
+      "fr": "Touchez le monstre avec un marqueur et battez-le rapidement pour augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "technical",
+      "enraged": "speed"
+    },
+    "elementWeakness": "fire",
+    "partsWeakness": {}
+  },
+  {
+    "name": {
+      "en": "Gravios",
+      "fr": "Gravios"
+    },
+    "location": {
+      "en": "Base du volcan Terga · Terga",
+      "fr": "Base du volcan Terga · Terga"
+    },
+    "retreat": {
+      "en": "Brisez chaque partie avec une grande bombe baril pour augmenter les chances de repli.",
+      "fr": "Brisez chaque partie avec une grande bombe baril pour augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "power",
+      "enraged": "technical"
+    },
+    "elementWeakness": "water",
+    "partsWeakness": {
+      "head": "blunt",
+      "stomach": "blunt",
+      "legs": "slash"
+    }
+  },
+  {
+    "name": {
+      "en": "Black Gravios",
+      "fr": "Gravios onyx"
+    },
+    "location": {
+      "en": "Base du volcan Terga · Terga",
+      "fr": "Base du volcan Terga · Terga"
+    },
+    "retreat": {
+      "en": "Brisez chaque partie avec une grande bombe baril pour augmenter les chances de repli.",
+      "fr": "Brisez chaque partie avec une grande bombe baril pour augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "power",
+      "enraged": "technical"
+    },
+    "elementWeakness": "water",
+    "partsWeakness": {
+      "head": "blunt",
+      "stomach": "blunt",
+      "legs": "slash"
+    }
+  },
+  {
+    "name": {
+      "en": "Gypceros",
+      "fr": "Gypceros"
+    },
+    "location": {
+      "en": "Forêt de Loloska · Loloska",
+      "fr": "Forêt de Loloska · Loloska"
+    },
+    "retreat": {
+      "en": "Attaquez avec un talent d'amitié de Nerscylla pour augmenter les chances de repli.",
+      "fr": "Attaquez avec un talent d'amitié de Nerscylla pour augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "power",
+      "enraged": "technical"
+    },
+    "elementWeakness": "fire",
+    "partsWeakness": {
+      "head": "pierce",
+      "stomach": "slash",
+      "tail": "slash"
+    }
+  },
+  {
+    "name": {
+      "en": "Purle Gypceros",
+      "fr": "Gypceros améthyste"
+    },
+    "location": {
+      "en": "Entrée tour Lamure · Lamure",
+      "fr": "Entrée tour Lamure · Lamure"
+    },
+    "retreat": {
+      "en": "Brisez la tête avec un lancecanon pour augmenter les chances de repli.",
+      "fr": "Brisez la tête avec un lancecanon pour augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "technical",
+      "enraged": "power"
+    },
+    "elementWeakness": "fire",
+    "partsWeakness": {
+      "head": "pierce",
+      "stomach": "slash",
+      "tail": "slash"
+    }
+  },
+  {
+    "name": {
+      "en": "Hermitaur",
+      "fr": "Hermitaur"
+    },
+    "location": {
+      "en": "Terres désolées Sadona · Lamure",
+      "fr": "Terres désolées Sadona · Lamure"
+    },
+    "retreat": {
+      "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
+      "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
+    },
+    "attackTypes": {},
+    "elementWeakness": null,
+    "partsWeakness": {}
+  },
+  {
+    "name": {
+      "en": "Daimyo Hermitaur",
+      "fr": "Hermitaur Daimyo"
+    },
+    "location": {
+      "en": "Terres désolées Sadona · Lamure",
+      "fr": "Terres désolées Sadona · Lamure"
+    },
+    "retreat": {
+      "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
+      "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
+    },
+    "attackTypes": {
+      "initial": "technical",
+      "enraged": "power"
+    },
+    "elementWeakness": "fire",
+    "partsWeakness": {
+      "shell": "blunt",
+      "body": "blunt",
+      "claws": "blunt"
+    }
+  },
+  {
+    "name": {
+      "en": "Plum Daimyo Hermitaur",
+      "fr": "Hermitaur Daimyo prune"
+    },
+    "location": {
+      "en": "Labo des monstres · Lamure",
+      "fr": "Labo des monstres · Lamure"
+    },
+    "retreat": {
+      "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
+      "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
+    },
+    "attackTypes": {
+      "initial": "technical",
+      "enraged": "speed"
+    },
+    "elementWeakness": "ice",
+    "partsWeakness": {
+      "shell": "blunt",
+      "body": "blunt",
+      "claws": "blunt"
+    }
+  },
+  {
+    "name": {
+      "en": "Iodrome",
+      "fr": "Iodrome"
+    },
+    "location": {
+      "en": "Base du volcan Terga · Terga",
+      "fr": "Base du volcan Terga · Terga"
+    },
+    "retreat": {
+      "en": "Touchez le monstre avec un marqueur et battez-le rapidement pour augmenter les chances de repli.",
+      "fr": "Touchez le monstre avec un marqueur et battez-le rapidement pour augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "speed",
+      "enraged": "power"
+    },
+    "elementWeakness": "water",
+    "partsWeakness": {}
+  },
+  {
+    "name": {
+      "en": "Ioprey",
+      "fr": "Ioprey"
+    },
+    "location": {
+      "en": "Base du volcan Terga · Terga",
+      "fr": "Base du volcan Terga · Terga"
+    },
+    "retreat": {
+      "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
+      "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
+    },
+    "attackTypes": {},
+    "elementWeakness": null,
+    "partsWeakness": {}
+  },
+  {
+    "name": {
+      "en": "Jaggi",
+      "fr": "Jaggi"
+    },
+    "location": {
+      "en": "Hautes-terres Alcala · Alcala",
+      "fr": "Hautes-terres Alcala · Alcala"
+    },
+    "retreat": {
+      "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
+      "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
+    },
+    "attackTypes": {},
+    "elementWeakness": null,
+    "partsWeakness": {}
+  },
+  {
+    "name": {
+      "en": "Jaggia",
+      "fr": "Jaggia"
+    },
+    "location": {
+      "en": "Hautes-terres Alcala · Alcala",
+      "fr": "Hautes-terres Alcala · Alcala"
+    },
+    "retreat": {
+      "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
+      "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
+    },
+    "attackTypes": {},
+    "elementWeakness": null,
+    "partsWeakness": {}
+  },
+  {
+    "name": {
+      "en": "Kecha Wacha",
+      "fr": "Kecha Wacha"
+    },
+    "location": {
+      "en": "Forêt de Loloska · Loloska",
+      "fr": "Forêt de Loloska · Loloska"
+    },
+    "retreat": {
+      "en": "Brisez la tête avec une épée & bouclier pour augmenter les chances de repli.",
+      "fr": "Brisez la tête avec une épée & bouclier pour augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "speed",
+      "enraged": "technical"
+    },
+    "elementWeakness": "fire",
+    "partsWeakness": {
+      "head": "slash",
+      "body": "slash",
+      "tail": "slash",
+      "claws": "blunt"
+    }
+  },
+  {
+    "name": {
+      "en": "Kecha Wacha blanc",
+      "fr": "Kecha Wacha blanc"
+    },
+    "location": {
+      "en": "Entrée tour Lamure · Lamure",
+      "fr": "Entrée tour Lamure · Lamure"
+    },
+    "retreat": {
+      "en": "Brisez la tête avec une grande épée d'élément eau pour augmenter les chances de repli.",
+      "fr": "Brisez la tête avec une grande épée d'élément eau pour augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "technical",
+      "enraged": "speed"
+    },
+    "elementWeakness": "water",
+    "partsWeakness": {
+      "head": "slash",
+      "body": "slash",
+      "tail": "slash",
+      "claws": "blunt"
+    }
+  },
+  {
+    "name": {
+      "en": "Kelbi",
+      "fr": "Kelbi"
+    },
+    "location": {
+      "en": "Cap nord Kamuna · Île Hakolo",
+      "fr": "Cap nord Kamuna · Île Hakolo"
+    },
+    "retreat": {
+      "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
+      "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
+    },
+    "attackTypes": {},
+    "elementWeakness": null,
+    "partsWeakness": {}
+  },
+  {
+    "name": {
+      "en": "Khezu",
+      "fr": "Khezu"
+    },
+    "location": {
+      "en": "Pic enneigé Lavina · Loloska",
+      "fr": "Pic enneigé Lavina · Loloska"
+    },
+    "retreat": {
+      "en": "Attaquez avec un talent d'amitié de Nerscylla spectrale pour augmenter les chances de repli.",
+      "fr": "Attaquez avec un talent d'amitié de Nerscylla spectrale pour augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "technical",
+      "enraged": "power"
+    },
+    "elementWeakness": "fire",
+    "partsWeakness": {
+      "head": "pierce",
+      "body": "blunt"
+    }
+  },
+  {
+    "name": {
+      "en": "Red Khezu",
+      "fr": "Khezu grenat"
+    },
+    "location": {
+      "en": "Pic enneigé Lavina · Loloska",
+      "fr": "Pic enneigé Lavina · Loloska"
+    },
+    "retreat": {
+      "en": "Brisez la tête avec un arc pour augmenter les chances de repli.",
+      "fr": "Brisez la tête avec un arc pour augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "technical",
+      "charged": "speed",
+      "enraged": "power"
+    },
+    "elementWeakness": "water",
+    "partsWeakness": {
+      "head": "pierce",
+      "body": "slash"
+    }
+  },
+  {
+    "name": {
+      "en": "Kirin",
+      "fr": "Kirin"
+    },
+    "location": {
+      "en": "Jardin de Pomore · Lamure",
+      "fr": "Jardin de Pomore · Lamure"
+    },
+    "retreat": {
+      "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
+      "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
+    },
+    "attackTypes": {
+      "initial": "speed",
+      "enraged": "technical"
+    },
+    "elementWeakness": "fire",
+    "partsWeakness": {
+      "head": "slash",
+      "body": "slash"
+    }
+  },
+  {
+    "name": {
+      "en": "Konchu (bleu)",
+      "fr": "Konchu (bleu)"
+    },
+    "location": {
+      "en": "Cap nord Kamuna · Île Hakolo",
+      "fr": "Cap nord Kamuna · Île Hakolo"
+    },
+    "retreat": {
+      "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
+      "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
+    },
+    "attackTypes": {},
+    "elementWeakness": null,
+    "partsWeakness": {}
+  },
+  {
+    "name": {
+      "en": "Konchu (jaune)",
+      "fr": "Konchu (jaune)"
+    },
+    "location": {
+      "en": "Cap nord Kamuna · Île Hakolo",
+      "fr": "Cap nord Kamuna · Île Hakolo"
+    },
+    "retreat": {
+      "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
+      "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
+    },
+    "attackTypes": {},
+    "elementWeakness": null,
+    "partsWeakness": {}
+  },
+  {
+    "name": {
+      "en": "Konchu (rouge)",
+      "fr": "Konchu (rouge)"
+    },
+    "location": {
+      "en": "Cap nord Kamuna · Île Hakolo",
+      "fr": "Cap nord Kamuna · Île Hakolo"
+    },
+    "retreat": {
+      "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
+      "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
+    },
+    "attackTypes": {},
+    "elementWeakness": null,
+    "partsWeakness": {}
+  },
+  {
+    "name": {
+      "en": "Konchu (vert)",
+      "fr": "Konchu (vert)"
+    },
+    "location": {
+      "en": "Cap nord Kamuna · Île Hakolo",
+      "fr": "Cap nord Kamuna · Île Hakolo"
+    },
+    "retreat": {
+      "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
+      "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
+    },
+    "attackTypes": {},
+    "elementWeakness": null,
+    "partsWeakness": {}
+  },
+  {
+    "name": {
+      "en": "Kulu-Ya-Ku",
+      "fr": "Kulu-Ya-Ku"
+    },
+    "location": {
+      "en": "Cap nord Kamuna · Île Hakolo",
+      "fr": "Cap nord Kamuna · Île Hakolo"
+    },
+    "retreat": {
+      "en": "Brisez les rochers avec une arme de type contondante pour augmenter les chances de repli.",
+      "fr": "Brisez les rochers avec une arme de type contondante pour augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "technical",
+      "holdingARock": "power"
+    },
+    "elementWeakness": "water",
+    "partsWeakness": {
+      "rock": "blunt"
+    }
+  },
+  {
+    "name": {
+      "en": "Kushala Daora",
+      "fr": "Kushala Daora"
+    },
+    "location": {
+      "en": "Grands arbres Etulle · Alcala",
+      "fr": "Grands arbres Etulle · Alcala"
+    },
+    "retreat": {
+      "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
+      "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
+    },
+    "attackTypes": {
+      "initial": "technical",
+      "flying": "speed",
+      "enraged": "power"
+    },
+    "elementWeakness": "thunder",
+    "partsWeakness": {
+      "head": "slash",
+      "stomach": "blunt",
+      "tail": "pierce",
+      "wings": "pierce"
+    }
+  },
+  {
+    "name": {
+      "en": "Lagiacrus",
+      "fr": "Lagiacrus"
+    },
+    "location": {
+      "en": "Jardin de Pomore · Lamure",
+      "fr": "Jardin de Pomore · Lamure"
+    },
+    "retreat": {
+      "en": "Attaquez avec un talent d'amitié de Rathalos pour grandement augmenter les chances de repli.",
+      "fr": "Attaquez avec un talent d'amitié de Rathalos pour grandement augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "power",
+      "enraged": "speed",
+      "electrify": "technical"
+    },
+    "elementWeakness": "fire",
+    "partsWeakness": {
+      "back": "blunt",
+      "body": "slash",
+      "tail": "blunt"
+    }
+  },
+  {
+    "name": {
+      "en": "Ivory Lagiacrus",
+      "fr": "Lagiacrus ivoire"
+    },
+    "location": {
+      "en": "Base du volcan Terga · Terga",
+      "fr": "Base du volcan Terga · Terga"
+    },
+    "retreat": {
+      "en": "Attaquez avec un talent d'amitié de Rathalos pour grandement augmenter les chances de repli.",
+      "fr": "Attaquez avec un talent d'amitié de Rathalos pour grandement augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "speed",
+      "enraged": "power",
+      "electrify": "technical"
+    },
+    "elementWeakness": "dragon",
+    "partsWeakness": {
+      "back": "slash",
+      "body": "blunt",
+      "tail": "pierce"
+    }
+  },
+  {
+    "name": {
+      "en": "Lagombi",
+      "fr": "Lagombi"
+    },
+    "location": {
+      "en": "Pied du mont Lavina · Loloska",
+      "fr": "Pied du mont Lavina · Loloska"
+    },
+    "retreat": {
+      "en": "Brisez l'estomac avec une grande épée pour augmenter les chances de repli.",
+      "fr": "Brisez l'estomac avec une grande épée pour augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "speed",
+      "enraged": "power"
+    },
+    "elementWeakness": "fire",
+    "partsWeakness": {
+      "stomach": "slash",
+      "legs": "slash"
+    }
+  },
+  {
+    "name": {
+      "en": "Larinoth",
+      "fr": "Larinoth"
+    },
+    "location": {
+      "en": "Cap nord Kamuna · Île Hakolo",
+      "fr": "Cap nord Kamuna · Île Hakolo"
+    },
+    "retreat": {
+      "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
+      "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
+    },
+    "attackTypes": {},
+    "elementWeakness": null,
+    "partsWeakness": {}
+  },
+  {
+    "name": {
+      "en": "Legiana",
+      "fr": "Legiana"
+    },
+    "location": {
+      "en": "Pic enneigé Lavina · Loloska",
+      "fr": "Pic enneigé Lavina · Loloska"
+    },
+    "retreat": {
+      "en": "Empêchez le monstre de planer avec une bombe flash, puis lancez une attaque d'élément foudre pour grandement augmenter les chances de repli.",
+      "fr": "Empêchez le monstre de planer avec une bombe flash, puis lancez une attaque d'élément foudre pour grandement augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "speed",
+      "enraged": "power",
+      "flying": "technical"
+    },
+    "elementWeakness": "thunder",
+    "partsWeakness": {
+      "head": "slash",
+      "wings": "slash",
+      "body": "slash"
+    }
+  },
+  {
+    "name": {
+      "en": "Ludroth",
+      "fr": "Ludroth"
+    },
+    "location": {
+      "en": "Vallée d'Alcala · Alcala",
+      "fr": "Vallée d'Alcala · Alcala"
+    },
+    "retreat": {
+      "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
+      "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
+    },
+    "attackTypes": {},
+    "elementWeakness": null,
+    "partsWeakness": {}
+  },
+  {
+    "name": {
+      "en": "Purple Ludroth",
+      "fr": "Ludroth pourpre"
+    },
+    "location": {
+      "en": "Terres désolées Sadona · Lamure",
+      "fr": "Terres désolées Sadona · Lamure"
+    },
+    "retreat": {
+      "en": "Brisez la tête avec un lancecanon d'élément feu pour augmenter les chances de repli.",
+      "fr": "Brisez la tête avec un lancecanon d'élément feu pour augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "power",
+      "enraged": "technical"
+    },
+    "elementWeakness": "fire",
+    "partsWeakness": {
+      "head": "pierce",
+      "stomach": "slash"
+    }
+  },
+  {
+    "name": {
+      "en": "Ludroth royal",
+      "fr": "Ludroth royal"
+    },
+    "location": {
+      "en": "Vallée d'Alcala · Alcala",
+      "fr": "Vallée d'Alcala · Alcala"
+    },
+    "retreat": {
+      "en": "Brisez l'estomac avec une arme de type tranchante pour augmenter les chances de repli.",
+      "fr": "Brisez l'estomac avec une arme de type tranchante pour augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "power",
+      "enraged": "technical"
+    },
+    "elementWeakness": "fire",
+    "partsWeakness": {
+      "head": "pierce",
+      "stomach": "slash"
+    }
+  },
+  {
+    "name": {
+      "en": "Mernos",
+      "fr": "Mernos"
+    },
+    "location": {
+      "en": null,
+      "fr": null
+    },
+    "retreat": {
+      "en": null,
+      "fr": null
+    },
+    "attackTypes": {
+      "initial": "speed",
+      "enraged": "power"
+    },
+    "elementWeakness": null,
+    "partsWeakness": {}
+  },
+  {
+    "name": {
+      "en": "Mizutsune",
+      "fr": "Mizutsune"
+    },
+    "location": {
+      "en": "Jardin de Pomore · Lamure",
+      "fr": "Jardin de Pomore · Lamure"
+    },
+    "retreat": {
+      "en": "Attaquez avec un talent d'amitié d'Astalos pour grandement augmenter les chances de repli.",
+      "fr": "Attaquez avec un talent d'amitié d'Astalos pour grandement augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "technical",
+      "enraged": "speed"
+    },
+    "elementWeakness": "thunder",
+    "partsWeakness": {
+      "body": "slash",
+      "legs": "slash",
+      "tail": "pierce"
+    }
+  },
+  {
+    "name": {
+      "en": "Monoblos",
+      "fr": "Monoblos"
+    },
+    "location": {
+      "en": "Colline Harzgai : intérieur · Alcala",
+      "fr": "Colline Harzgai : intérieur · Alcala"
+    },
+    "retreat": {
+      "en": "Attaquez avec une épée & bouclier quand le monstre est paralysé pour grandement augmenter les chances de repli.",
+      "fr": "Attaquez avec une épée & bouclier quand le monstre est paralysé pour grandement augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "speed",
+      "enraged": "power"
+    },
+    "elementWeakness": "thunder",
+    "partsWeakness": {
+      "horn": "pierce",
+      "stomach": "slash",
+      "legs": "pierce",
+      "tail": "pierce"
+    }
+  },
+  {
+    "name": {
+      "en": "White Monoblos",
+      "fr": "Monoblos ivoire"
+    },
+    "location": {
+      "en": "Grand-plateau Jalma · Lamure",
+      "fr": "Grand-plateau Jalma · Lamure"
+    },
+    "retreat": {
+      "en": "Attaquez avec un arc quand le monstre est paralysé pour grandement augmenter les chances de repli.",
+      "fr": "Attaquez avec un arc quand le monstre est paralysé pour grandement augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "power",
+      "enraged": "speed"
+    },
+    "elementWeakness": "ice",
+    "partsWeakness": {
+      "horn": null,
+      "legs": "pierce",
+      "tail": "pierce"
+    }
+  },
+  {
+    "name": {
+      "en": "Nargacuga",
+      "fr": "Nargacuga"
+    },
+    "location": {
+      "en": "Hautes-terres Alcala · Alcala",
+      "fr": "Hautes-terres Alcala · Alcala"
+    },
+    "retreat": {
+      "en": "Attaquez quand le monstre est dans un piège à fosse pour augmenter les chances de repli.",
+      "fr": "Attaquez quand le monstre est dans un piège à fosse pour augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "speed",
+      "enraged": "technical"
+    },
+    "elementWeakness": "thunder",
+    "partsWeakness": {
+      "head": "pierce",
+      "stomach": "pierce",
+      "tail": "pierce"
+    }
+  },
+  {
+    "name": {
+      "en": "Green Nargacuga",
+      "fr": "Nargacuga opale"
+    },
+    "location": {
+      "en": "Jardin de Pomore · Lamure",
+      "fr": "Jardin de Pomore · Lamure"
+    },
+    "retreat": {
+      "en": "Attaquez quand le monstre est dans un piège à fosse pour augmenter les chances de repli.",
+      "fr": "Attaquez quand le monstre est dans un piège à fosse pour augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "speed",
+      "enraged": "power"
+    },
+    "elementWeakness": "thunder",
+    "partsWeakness": {
+      "head": "pierce",
+      "stomach": "pierce",
+      "tail": "slash"
+    }
+  },
+  {
+    "name": {
+      "en": "Nargacuga Vent-acier",
+      "fr": "Nargacuga Vent-acier"
+    },
+    "location": {
+      "en": "Hauts est Kamuna · Île Hakolo",
+      "fr": "Hauts est Kamuna · Île Hakolo"
+    },
+    "retreat": {
+      "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
+      "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
+    },
+    "attackTypes": {
+      "initial": "technical",
+      "enraged": "speed"
+    },
+    "elementWeakness": "thunder",
+    "partsWeakness": {
+      "head": "pierce",
+      "stomach": "slash",
+      "tail": "pierce"
+    }
+  },
+  {
+    "name": {
+      "en": "Nergigante",
+      "fr": "Nergigante"
+    },
+    "location": {
+      "en": "Base du volcan Terga · Terga",
+      "fr": "Base du volcan Terga · Terga"
+    },
+    "retreat": {
+      "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
+      "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
+    },
+    "attackTypes": {
+      "initial": "technical",
+      "whiteSpiked": "power",
+      "enraged": "speed"
+    },
+    "elementWeakness": "thunder",
+    "partsWeakness": {
+      "head": "blunt",
+      "legs": "slash",
+      "wings": "wings"
+    }
+  },
+  {
+    "name": {
+      "en": "Nerscylla",
+      "fr": "Nerscylla"
+    },
+    "location": {
+      "en": "Forêt de Loloska · Loloska",
+      "fr": "Forêt de Loloska · Loloska"
+    },
+    "retreat": {
+      "en": "Brisez les pointes avec une attaque d'élément feu pour augmenter les chances de repli.",
+      "fr": "Brisez les pointes avec une attaque d'élément feu pour augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "technical",
+      "enraged": "speed"
+    },
+    "elementWeakness": "fire",
+    "partsWeakness": {
+      "head": "blunt",
+      "needle": "pierce",
+      "legs": "slash",
+      "stomach": "slash",
+      "chest": "pierce"
+    }
+  },
+  {
+    "name": {
+      "en": "Shrouded Nerscylla",
+      "fr": "Nerscylla spectrale"
+    },
+    "location": {
+      "en": "Base du volcan Terga · Terga",
+      "fr": "Base du volcan Terga · Terga"
+    },
+    "retreat": {
+      "en": "Brisez les pointes avec un arc d'élément glace pour grandement augmenter les chances de repli.",
+      "fr": "Brisez les pointes avec un arc d'élément glace pour grandement augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "technical",
+      "enraged": "speed"
+    },
+    "elementWeakness": "ice",
+    "partsWeakness": {
+      "Head": "Blunt",
+      "Needle": "Pierce",
+      "Legs": "Slash",
+      "Stomach": "Slash",
+      "Chest": "Pierce"
+    }
+  },
+  {
+    "name": {
+      "en": "Oltura",
+      "fr": "Oltura"
+    },
+    "location": {
+      "en": null,
+      "fr": null
+    },
+    "retreat": {
+      "en": null,
+      "fr": null
+    },
+    "attackTypes": {
+      "initial": "technical",
+      "enraged": "power"
+    },
+    "elementWeakness": null,
+    "partsWeakness": {}
+  },
+  {
+    "name": {
+      "en": "Paolumu",
+      "fr": "Paolumu"
+    },
+    "location": {
+      "en": "Forêt des vagabonds · Alcala",
+      "fr": "Forêt des vagabonds · Alcala"
+    },
+    "retreat": {
+      "en": "Utilisez une bombe flash pour l'empêcher de planer et augmenter les chances de repli.",
+      "fr": "Utilisez une bombe flash pour l'empêcher de planer et augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "technical",
+      "enraged": "speed"
+    },
+    "elementWeakness": "fire",
+    "partsWeakness": {
+      "neckpouch": "pierce",
+      "body": "slash"
+    }
+  },
+  {
+    "name": {
+      "en": "Plesioth",
+      "fr": "Plesioth"
+    },
+    "location": {
+      "en": "Terres désolées Sadona · Lamure",
+      "fr": "Terres désolées Sadona · Lamure"
+    },
+    "retreat": {
+      "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
+      "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
+    },
+    "attackTypes": {
+      "initial": "technical",
+      "enraged": "power"
+    },
+    "elementWeakness": "dragon",
+    "partsWeakness": {
+      "back": "pierce",
+      "body": "slash",
+      "tail": "pierce"
+    }
+  },
+  {
+    "name": {
+      "en": "Green Plesioth",
+      "fr": "Plesioth vert"
+    },
+    "location": {
+      "en": "Base du volcan Terga · Terga",
+      "fr": "Base du volcan Terga · Terga"
+    },
+    "retreat": {
+      "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
+      "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
+    },
+    "attackTypes": {
+      "initial": "technical",
+      "enraged": "speed"
+    },
+    "elementWeakness": "thunder",
+    "partsWeakness": {
+      "back": "pierce",
+      "body": "blunt",
+      "tail": "slash"
+    }
+  },
+  {
+    "name": {
+      "en": "Popo",
+      "fr": "Popo"
+    },
+    "location": {
+      "en": "Pied du mont Lavina · Loloska",
+      "fr": "Pied du mont Lavina · Loloska"
+    },
+    "retreat": {
+      "en": "Touchez le monstre avec un marqueur et battez-le rapidement pour augmenter les chances de repli.",
+      "fr": "Touchez le monstre avec un marqueur et battez-le rapidement pour augmenter les chances de repli."
+    },
+    "attackTypes": {},
+    "elementWeakness": null,
+    "partsWeakness": {}
+  },
+  {
+    "name": {
+      "en": "Pukei-Pukei",
+      "fr": "Pukei-Pukei"
+    },
+    "location": {
+      "en": "Cap nord Kamuna · Île Hakolo",
+      "fr": "Cap nord Kamuna · Île Hakolo"
+    },
+    "retreat": {
+      "en": "Brisez la queue avec une arme de type tranchante pour augmenter les chances de repli.",
+      "fr": "Brisez la queue avec une arme de type tranchante pour augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "technical",
+      "enraged": "power"
+    },
+    "elementWeakness": "thunder",
+    "partsWeakness": {
+      "head": "blunt",
+      "body": "slash",
+      "tail": "slash"
+    }
+  },
+  {
+    "name": {
+      "en": "Qurupeco",
+      "fr": "Qurupeco"
+    },
+    "location": {
+      "en": "Grands arbres Etulle · Alcala",
+      "fr": "Grands arbres Etulle · Alcala"
+    },
+    "retreat": {
+      "en": "Brisez la tête avec une arme de type contondante pour augmenter les chances de repli.",
+      "fr": "Brisez la tête avec une arme de type contondante pour augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "technical",
+      "enraged": "speed"
+    },
+    "elementWeakness": "ice",
+    "partsWeakness": {
+      "head": "blunt",
+      "body": "slash"
+    }
+  },
+  {
+    "name": {
+      "en": "Crimson Qurupeco",
+      "fr": "Qurupeco vermillon"
+    },
+    "location": {
+      "en": "Jardin de Pomore · Lamure",
+      "fr": "Jardin de Pomore · Lamure"
+    },
+    "retreat": {
+      "en": "Brisez la tête avec un marteau pour augmenter les chances de repli.",
+      "fr": "Brisez la tête avec un marteau pour augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "technical",
+      "enraged": "speed"
+    },
+    "elementWeakness": "ice",
+    "partsWeakness": {
+      "head": "blunt",
+      "body": "slash"
+    }
+  },
+  {
+    "name": {
+      "en": "Rajang",
+      "fr": "Rajang"
+    },
+    "location": {
+      "en": null,
+      "fr": null
+    },
+    "retreat": {
+      "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
+      "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
+    },
+    "attackTypes": {
+      "initial": "power",
+      "powerAura": "power",
+      "speedAura": "speed",
+      "technicalAura": "technical"
+    },
+    "elementWeakness": "ice",
+    "partsWeakness": {
+      "head": "slash",
+      "stomach": null,
+      "legs": null,
+      "tail": "slash"
+    }
+  },
+  {
+    "name": {
+      "en": "Rathalos",
+      "fr": "Rathalos"
+    },
+    "location": {
+      "en": "Cap nord Kamuna · Île Hakolo",
+      "fr": "Cap nord Kamuna · Île Hakolo"
+    },
+    "retreat": {
+      "en": "Attaquez avec un talent d'amitié de Lagiacrus pour grandement augmenter les chances de repli.",
+      "fr": "Attaquez avec un talent d'amitié de Lagiacrus pour grandement augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "power",
+      "flying": "speed"
+    },
+    "elementWeakness": "thunder",
+    "partsWeakness": {
+      "head": "blunt",
+      "body": "slash",
+      "tail": "slash",
+      "wings": "slash"
+    }
+  },
+  {
+    "name": {
+      "en": "Azure Rathalos",
+      "fr": "Rathalos azur"
+    },
+    "location": {
+      "en": "Cap nord Kamuna · Île Hakolo",
+      "fr": "Cap nord Kamuna · Île Hakolo"
+    },
+    "retreat": {
+      "en": "Attaquez avec un talent d'amitié de Lagiacrus pour grandement augmenter les chances de repli.",
+      "fr": "Attaquez avec un talent d'amitié de Lagiacrus pour grandement augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "power",
+      "flying": "speed"
+    },
+    "elementWeakness": "thunder",
+    "partsWeakness": {
+      "head": "blunt",
+      "stomach": "slash",
+      "tail": "slash",
+      "wings": "slash"
+    }
+  },
+  {
+    "name": {
+      "en": "Rathian",
+      "fr": "Rathian"
+    },
+    "location": {
+      "en": "Hautes-terres Alcala · Alcala",
+      "fr": "Hautes-terres Alcala · Alcala"
+    },
+    "retreat": {
+      "en": "Attaquez avec un talent d'amitié de Rathalos pour grandement augmenter les chances de repli.",
+      "fr": "Attaquez avec un talent d'amitié de Rathalos pour grandement augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "speed",
+      "enraged": "power"
+    },
+    "elementWeakness": "dragon",
+    "partsWeakness": {
+      "body": "slash",
+      "tail": "slash"
+    }
+  },
+  {
+    "name": {
+      "en": "Dreadqueen Rathian",
+      "fr": "Rathian Reine-poison"
+    },
+    "location": {
+      "en": "Base du volcan Terga · Terga",
+      "fr": "Base du volcan Terga · Terga"
+    },
+    "retreat": {
+      "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
+      "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
+    },
+    "attackTypes": {
+      "initial": "technical",
+      "enraged": "speed"
+    },
+    "elementWeakness": "dragon",
+    "partsWeakness": {
+      "head": "slash",
+      "stomach": "slash",
+      "back": "blunt",
+      "tail": "slash"
+    }
+  },
+  {
+    "name": {
+      "en": "Pink Rathian",
+      "fr": "Rathian sakura"
+    },
+    "location": {
+      "en": "Jardin de Pomore · Lamure",
+      "fr": "Jardin de Pomore · Lamure"
+    },
+    "retreat": {
+      "en": "Attaquez avec un talent d'amitié de Rathalos azur pour grandement augmenter les chances de repli.",
+      "fr": "Attaquez avec un talent d'amitié de Rathalos azur pour grandement augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "speed",
+      "enraged": "power"
+    },
+    "elementWeakness": "dragon",
+    "partsWeakness": {
+      "head": "slash",
+      "tail": "blunt"
+    }
+  },
+  {
+    "name": {
+      "en": "Reine Seltas",
+      "fr": "Reine Seltas"
+    },
+    "location": {
+      "en": "Forêt de Loloska · Loloska",
+      "fr": "Forêt de Loloska · Loloska"
+    },
+    "retreat": {
+      "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
+      "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
+    },
+    "attackTypes": {
+      "initial": "technical",
+      "combined": "power",
+      "enraged": "speed"
+    },
+    "elementWeakness": "fire",
+    "partsWeakness": {
+      "seltas": "pierce",
+      "head": "pierce",
+      "legs": "blunt",
+      "body": "pierce"
+    }
+  },
+  {
+    "name": {
+      "en": "Desert Seltas Queen",
+      "fr": "Reine Seltas du désert"
+    },
+    "location": {
+      "en": "Base du volcan Terga · Terga",
+      "fr": "Base du volcan Terga · Terga"
+    },
+    "retreat": {
+      "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
+      "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
+    },
+    "attackTypes": {
+      "initial": "speed",
+      "enraged": "power"
+    },
+    "elementWeakness": "ice",
+    "partsWeakness": {
+      "head": "slash",
+      "stomach": "pierce",
+      "legs": "blunt"
+    }
+  },
+  {
+    "name": {
+      "en": "Remobra",
+      "fr": "Remobra"
+    },
+    "location": {
+      "en": "Terres interdites · Île Hakolo",
+      "fr": "Terres interdites · Île Hakolo"
+    },
+    "retreat": {
+      "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
+      "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
+    },
+    "attackTypes": {},
+    "elementWeakness": null,
+    "partsWeakness": {}
+  },
+  {
+    "name": {
+      "en": "Rhenoplos",
+      "fr": "Rhenoplos"
+    },
+    "location": {
+      "en": null,
+      "fr": null
+    },
+    "retreat": {
+      "en": null,
+      "fr": null
+    },
+    "attackTypes": {},
+    "elementWeakness": null,
+    "partsWeakness": {}
+  },
+  {
+    "name": {
+      "en": "Rockbomb",
+      "fr": "Rockbomb"
+    },
+    "location": {
+      "en": null,
+      "fr": null
+    },
+    "retreat": {
+      "en": null,
+      "fr": null
+    },
+    "attackTypes": {},
+    "elementWeakness": null,
+    "partsWeakness": {}
+  },
+  {
+    "name": {
+      "en": "Seltas",
+      "fr": "Seltas"
+    },
+    "location": {
+      "en": "Pic enneigé Lavina · Loloska",
+      "fr": "Pic enneigé Lavina · Loloska"
+    },
+    "retreat": {
+      "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
+      "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
+    },
+    "attackTypes": {},
+    "elementWeakness": null,
+    "partsWeakness": {}
+  },
+  {
+    "name": {
+      "en": "Seregios",
+      "fr": "Seregios"
+    },
+    "location": {
+      "en": "Terres interdites · Île Hakolo",
+      "fr": "Terres interdites · Île Hakolo"
+    },
+    "retreat": {
+      "en": "Brisez la tête avec un lancecanon d'élément foudre pour grandement augmenter les chances de repli.",
+      "fr": "Brisez la tête avec un lancecanon d'élément foudre pour grandement augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "technical",
+      "enraged": "speed"
+    },
+    "elementWeakness": "thunder",
+    "partsWeakness": {
+      "head": "slash",
+      "stomach": "slash",
+      "wings": "pierce",
+      "legs": "slash"
+    }
+  },
+  {
+    "name": {
+      "en": "Shakalaka",
+      "fr": "Shakalaka"
+    },
+    "location": {
+      "en": "Base du volcan Terga · Terga",
+      "fr": "Base du volcan Terga · Terga"
+    },
+    "retreat": {
+      "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
+      "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
+    },
+    "attackTypes": {},
+    "elementWeakness": null,
+    "partsWeakness": {}
+  },
+  {
+    "name": {
+      "en": "Shaulk",
+      "fr": "Shaulk"
+    },
+    "location": {
+      "en": "Pic enneigé Lavina · Loloska",
+      "fr": "Pic enneigé Lavina · Loloska"
+    },
+    "retreat": {
+      "en": "Empêchez le monstre de planer avec une bombe flash, puis lancez une attaque d'élément foudre pour grandement augmenter les chances de repli.",
+      "fr": "Empêchez le monstre de planer avec une bombe flash, puis lancez une attaque d'élément foudre pour grandement augmenter les chances de repli."
+    },
+    "attackTypes": {},
+    "elementWeakness": null,
+    "partsWeakness": {}
+  },
+  {
+    "name": {
+      "en": "Slagtoth (brun)",
+      "fr": "Slagtoth (brun)"
+    },
+    "location": {
+      "en": "Terres désolées Sadona · Lamure",
+      "fr": "Terres désolées Sadona · Lamure"
+    },
+    "retreat": {
+      "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
+      "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
+    },
+    "attackTypes": {},
+    "elementWeakness": null,
+    "partsWeakness": {}
+  },
+  {
+    "name": {
+      "en": "Slagtoth (vert)",
+      "fr": "Slagtoth (vert)"
+    },
+    "location": {
+      "en": "Hautes-terres Alcala · Alcala",
+      "fr": "Hautes-terres Alcala · Alcala"
+    },
+    "retreat": {
+      "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
+      "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
+    },
+    "attackTypes": {},
+    "elementWeakness": null,
+    "partsWeakness": {}
+  },
+  {
+    "name": {
+      "en": "Teostra",
+      "fr": "Teostra"
+    },
+    "location": {
+      "en": "Base du volcan Terga · Terga",
+      "fr": "Base du volcan Terga · Terga"
+    },
+    "retreat": {
+      "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
+      "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
+    },
+    "attackTypes": {
+      "initial": "speed",
+      "enraged": "power",
+      "flying": "technical"
+    },
+    "elementWeakness": "water",
+    "partsWeakness": {
+      "head": "slash",
+      "stomach": "slash",
+      "tail": "slash",
+      "wings": "slash"
+    }
+  },
+  {
+    "name": {
+      "en": "Tetsucabra",
+      "fr": "Tetsucabra"
+    },
+    "location": {
+      "en": "Colline Harzgai · Alcala",
+      "fr": "Colline Harzgai · Alcala"
+    },
+    "retreat": {
+      "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
+      "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
+    },
+    "attackTypes": {
+      "initial": "power"
+    },
+    "elementWeakness": "water",
+    "partsWeakness": {
+      "rock": "blunt"
+    }
+  },
+  {
+    "name": {
+      "en": "Tigrex",
+      "fr": "Tigrex"
+    },
+    "location": {
+      "en": "Colline Harzgai : intérieur · Alcala",
+      "fr": "Colline Harzgai : intérieur · Alcala"
+    },
+    "retreat": {
+      "en": "Brisez la tête avec une grande épée après avoir utilisé un piège électrochoc pour augmenter les chances de repli.",
+      "fr": "Brisez la tête avec une grande épée après avoir utilisé un piège électrochoc pour augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "speed",
+      "enraged": "power"
+    },
+    "elementWeakness": "thunder",
+    "partsWeakness": {
+      "head": "slash",
+      "legs": "slash"
+    }
+  },
+  {
+    "name": {
+      "en": "Tigrex berserk",
+      "fr": "Tigrex berserk"
+    },
+    "location": {
+      "en": "Terres désolées Sadona · Lamure",
+      "fr": "Terres désolées Sadona · Lamure"
+    },
+    "retreat": {
+      "en": "Brisez la tête avec une épée & bouclier après avoir utilisé un piège électrochoc pour augmenter les chances de repli.",
+      "fr": "Brisez la tête avec une épée & bouclier après avoir utilisé un piège électrochoc pour augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "power",
+      "enraged": "speed"
+    },
+    "elementWeakness": "water",
+    "partsWeakness": {
+      "head": "slash",
+      "legs": "slash"
+    }
+  },
+  {
+    "name": {
+      "en": "Tigrex Griffe-sombre",
+      "fr": "Tigrex Griffe-sombre"
+    },
+    "location": {
+      "en": "Vallée d'Alcala · Alcala",
+      "fr": "Vallée d'Alcala · Alcala"
+    },
+    "retreat": {
+      "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
+      "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
+    },
+    "attackTypes": {
+      "initial": "power",
+      "enraged": "speed"
+    },
+    "elementWeakness": "thunder",
+    "partsWeakness": {
+      "head": "slash",
+      "stomach": "blunt",
+      "legs": "slash"
+    }
+  },
+  {
+    "name": {
+      "en": "Tobi-Kadachi",
+      "fr": "Tobi-Kadachi"
+    },
+    "location": {
+      "en": "Canyon roche Loloska · Loloska",
+      "fr": "Canyon roche Loloska · Loloska"
+    },
+    "retreat": {
+      "en": "Brisez la queue avec une corne de chasse pour augmenter les chances de repli.",
+      "fr": "Brisez la queue avec une corne de chasse pour augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "speed",
+      "enraged": "technical",
+      "overcharge": "speed"
+    },
+    "elementWeakness": "water",
+    "partsWeakness": {
+      "body": "slash",
+      "tail": "slash",
+      "legs": "slash"
+    }
+  },
+  {
+    "name": {
+      "en": "Uragaan",
+      "fr": "Uragaan"
+    },
+    "location": {
+      "en": "Base du volcan Terga · Terga",
+      "fr": "Base du volcan Terga · Terga"
+    },
+    "retreat": {
+      "en": "Attaquez quand le monstre est empoisonné pour grandement augmenter les chances de repli.",
+      "fr": "Attaquez quand le monstre est empoisonné pour grandement augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "power",
+      "enraged": "technical"
+    },
+    "elementWeakness": "water",
+    "partsWeakness": {
+      "head": "blunt",
+      "stomach": "slash",
+      "tail": "slash"
+    }
+  },
+  {
+    "name": {
+      "en": "Uroktor",
+      "fr": "Uroktor"
+    },
+    "location": {
+      "en": "Base du volcan Terga · Terga",
+      "fr": "Base du volcan Terga · Terga"
+    },
+    "retreat": {
+      "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
+      "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
+    },
+    "attackTypes": {},
+    "elementWeakness": null,
+    "partsWeakness": {}
+  },
+  {
+    "name": {
+      "en": "Velkhana",
+      "fr": "Velkhana"
+    },
+    "location": {
+      "en": "Pied du mont Lavina · Loloska",
+      "fr": "Pied du mont Lavina · Loloska"
+    },
+    "retreat": {
+      "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
+      "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
+    },
+    "attackTypes": {
+      "initial": "speed",
+      "iceMantle": "technical",
+      "flying": "power"
+    },
+    "elementWeakness": "fire",
+    "partsWeakness": {
+      "head": "slash",
+      "stomach": "slash",
+      "tail": "slash",
+      "wings": "pierce",
+      "frostScale": "blunt"
+    }
+  },
+  {
+    "name": {
+      "en": "Velocidrome",
+      "fr": "Velocidrome"
+    },
+    "location": {
+      "en": "Cap nord Kamuna · Île Hakolo",
+      "fr": "Cap nord Kamuna · Île Hakolo"
+    },
+    "retreat": {
+      "en": "Touchez le monstre avec un marqueur et battez-le rapidement pour augmenter les chances de repli.",
+      "fr": "Touchez le monstre avec un marqueur et battez-le rapidement pour augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "speed",
+      "enraged": "technical"
+    },
+    "elementWeakness": "ice",
+    "partsWeakness": {}
+  },
+  {
+    "name": {
+      "en": "Velociprey",
+      "fr": "Velociprey"
+    },
+    "location": {
+      "en": "Cap nord Kamuna · Île Hakolo",
+      "fr": "Cap nord Kamuna · Île Hakolo"
+    },
+    "retreat": {
+      "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
+      "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
+    },
+    "attackTypes": {},
+    "elementWeakness": null,
+    "partsWeakness": {}
+  },
+  {
+    "name": {
+      "en": "Vespoid",
+      "fr": "Vespoid"
+    },
+    "location": {
+      "en": "Terres interdites · Île Hakolo",
+      "fr": "Terres interdites · Île Hakolo"
+    },
+    "retreat": {
+      "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
+      "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
+    },
+    "attackTypes": {},
+    "elementWeakness": null,
+    "partsWeakness": {}
+  },
+  {
+    "name": {
+      "en": "Yian Garuga",
+      "fr": "Yian Garuga"
+    },
+    "location": {
+      "en": "Vallée d'Alcala · Alcala",
+      "fr": "Vallée d'Alcala · Alcala"
+    },
+    "retreat": {
+      "en": "Brisez la tête lorsque le monstre est enragé pour augmenter les chances de repli.",
+      "fr": "Brisez la tête lorsque le monstre est enragé pour augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "technical",
+      "enraged": "power"
+    },
+    "elementWeakness": "water",
+    "partsWeakness": {
+      "head": "slash",
+      "tail": "slash"
+    }
+  },
+  {
+    "name": {
+      "en": "Yian Kut-Ku",
+      "fr": "Yian Kut-Ku"
+    },
+    "location": {
+      "en": "Cap nord Kamuna · Île Hakolo",
+      "fr": "Cap nord Kamuna · Île Hakolo"
+    },
+    "retreat": {
+      "en": "Brisez la tête avec une arme de type perforante pour augmenter les chances de repli.",
+      "fr": "Brisez la tête avec une arme de type perforante pour augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "technical",
+      "enraged": "speed"
+    },
+    "elementWeakness": "ice",
+    "partsWeakness": {
+      "head": "pierce"
+    }
+  },
+  {
+    "name": {
+      "en": "Yian Kut-Ku bleu",
+      "fr": "Yian Kut-Ku bleu"
+    },
+    "location": {
+      "en": "Vallée d'Alcala · Alcala",
+      "fr": "Vallée d'Alcala · Alcala"
+    },
+    "retreat": {
+      "en": "Brisez la tête avec une arme de type perforante pour augmenter les chances de repli.",
+      "fr": "Brisez la tête avec une arme de type perforante pour augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "technical",
+      "enraged": "speed"
+    },
+    "elementWeakness": "water",
+    "partsWeakness": {
+      "head": "pierce"
+    }
+  },
+  {
+    "name": {
+      "en": "Zamite",
+      "fr": "Zamite"
+    },
+    "location": {
+      "en": "Pied du mont Lavina · Loloska",
+      "fr": "Pied du mont Lavina · Loloska"
+    },
+    "retreat": {
+      "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
+      "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
+    },
+    "attackTypes": {},
+    "elementWeakness": null,
+    "partsWeakness": {}
+  },
+  {
+    "name": {
+      "en": "Zamtrios",
+      "fr": "Zamtrios"
+    },
+    "location": {
+      "en": "Pied du mont Lavina · Loloska",
+      "fr": "Pied du mont Lavina · Loloska"
+    },
+    "retreat": {
+      "en": "Brisez l'estomac quand il est gonflé pour augmenter les chances de repli.",
+      "fr": "Brisez l'estomac quand il est gonflé pour augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "technical",
+      "iceCovered": "speed",
+      "inflated": "power"
+    },
+    "elementWeakness": "thunder",
+    "partsWeakness": {
+      "head": "blunt",
+      "stomach": "slash",
+      "legs": "slash"
+    }
+  },
+  {
+    "name": {
+      "en": "Zinogre",
+      "fr": "Zinogre"
+    },
+    "location": {
+      "en": "Pic enneigé Lavina · Loloska",
+      "fr": "Pic enneigé Lavina · Loloska"
+    },
+    "retreat": {
+      "en": "Lancez une attaque d'élément glace quand le monstre est affecté par fléau-explosion pour grandement augmenter les chances de repli.",
+      "fr": "Lancez une attaque d'élément glace quand le monstre est affecté par fléau-explosion pour grandement augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "speed",
+      "charged": "technical",
+      "supercharged": "power"
+    },
+    "elementWeakness": "ice",
+    "partsWeakness": {
+      "head": "pierce",
+      "body": "pierce",
+      "tail": "slash"
+    }
+  },
+  {
+    "name": {
+      "en": "Thunderlord Zinogre",
+      "fr": "Zinogre Feu-du-ciel"
+    },
+    "location": {
+      "en": "Canyon roche Loloska · Loloska",
+      "fr": "Canyon roche Loloska · Loloska"
+    },
+    "retreat": {
+      "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
+      "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
+    },
+    "attackTypes": {
+      "initial": "power",
+      "enraged": "speed"
+    },
+    "elementWeakness": "ice",
+    "partsWeakness": {
+      "head": "slash",
+      "body": "blunt",
+      "tail": "slash"
+    }
+  },
+  {
+    "name": {
+      "en": "Stygian Zinogre",
+      "fr": "Zinogre stygien"
+    },
+    "location": {
+      "en": "Terres interdites · Île Hakolo",
+      "fr": "Terres interdites · Île Hakolo"
+    },
+    "retreat": {
+      "en": "Lancez une attaque d'élément foudre quand le monstre est affecté par fléau-explosion pour grandement augmenter les chances de repli.",
+      "fr": "Lancez une attaque d'élément foudre quand le monstre est affecté par fléau-explosion pour grandement augmenter les chances de repli."
+    },
+    "attackTypes": {
+      "initial": "technical",
+      "enraged": "speed"
+    },
+    "elementWeakness": "thunder",
+    "partsWeakness": {
+      "head": "blunt",
+      "body": "pierce",
+      "tail": "slash"
+    }
+  }
+]
