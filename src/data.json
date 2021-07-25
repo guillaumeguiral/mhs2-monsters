@@ -65,9 +65,9 @@
       "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
       "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
     },
-    "attackTypes": {},
+    "attackTypes": null,
     "elementWeakness": null,
-    "partsWeakness": {}
+    "partsWeakness": null
   },
   {
     "name": {
@@ -127,9 +127,9 @@
       "en": "Touchez le monstre avec un marqueur et battez-le rapidement pour augmenter les chances de repli.",
       "fr": "Touchez le monstre avec un marqueur et battez-le rapidement pour augmenter les chances de repli."
     },
-    "attackTypes": {},
+    "attackTypes": null,
     "elementWeakness": null,
-    "partsWeakness": {}
+    "partsWeakness": null
   },
   {
     "name": {
@@ -144,9 +144,9 @@
       "en": "Touchez le monstre avec un marqueur et battez-le rapidement pour augmenter les chances de repli.",
       "fr": "Touchez le monstre avec un marqueur et battez-le rapidement pour augmenter les chances de repli."
     },
-    "attackTypes": {},
+    "attackTypes": null,
     "elementWeakness": null,
-    "partsWeakness": {}
+    "partsWeakness": null
   },
   {
     "name": {
@@ -210,9 +210,9 @@
       "en": "Touchez le monstre avec un marqueur et battez-le rapidement pour augmenter les chances de repli.",
       "fr": "Touchez le monstre avec un marqueur et battez-le rapidement pour augmenter les chances de repli."
     },
-    "attackTypes": {},
+    "attackTypes": null,
     "elementWeakness": null,
-    "partsWeakness": {}
+    "partsWeakness": null
   },
   {
     "name": {
@@ -227,9 +227,9 @@
       "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
       "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
     },
-    "attackTypes": {},
+    "attackTypes": null,
     "elementWeakness": null,
-    "partsWeakness": {}
+    "partsWeakness": null
   },
   {
     "name": {
@@ -418,9 +418,9 @@
       "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
       "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
     },
-    "attackTypes": {},
+    "attackTypes": null,
     "elementWeakness": null,
-    "partsWeakness": {}
+    "partsWeakness": null
   },
   {
     "name": {
@@ -435,9 +435,9 @@
       "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
       "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
     },
-    "attackTypes": {},
+    "attackTypes": null,
     "elementWeakness": null,
-    "partsWeakness": {}
+    "partsWeakness": null
   },
   {
     "name": {
@@ -452,9 +452,9 @@
       "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
       "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
     },
-    "attackTypes": {},
+    "attackTypes": null,
     "elementWeakness": null,
-    "partsWeakness": {}
+    "partsWeakness": null
   },
   {
     "name": {
@@ -469,9 +469,9 @@
       "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
       "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
     },
-    "attackTypes": {},
+    "attackTypes": null,
     "elementWeakness": null,
-    "partsWeakness": {}
+    "partsWeakness": null
   },
   {
     "name": {
@@ -516,7 +516,7 @@
       "enraged": "speed"
     },
     "elementWeakness": "thunder",
-    "partsWeakness": {}
+    "partsWeakness": null
   },
   {
     "name": {
@@ -531,9 +531,9 @@
       "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
       "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
     },
-    "attackTypes": {},
+    "attackTypes": null,
     "elementWeakness": null,
-    "partsWeakness": {}
+    "partsWeakness": null
   },
   {
     "name": {
@@ -572,9 +572,9 @@
       "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
       "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
     },
-    "attackTypes": {},
+    "attackTypes": null,
     "elementWeakness": null,
-    "partsWeakness": {}
+    "partsWeakness": null
   },
   {
     "name": {
@@ -589,9 +589,9 @@
       "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
       "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
     },
-    "attackTypes": {},
+    "attackTypes": null,
     "elementWeakness": null,
-    "partsWeakness": {}
+    "partsWeakness": null
   },
   {
     "name": {
@@ -776,9 +776,9 @@
       "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
       "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
     },
-    "attackTypes": {},
+    "attackTypes": null,
     "elementWeakness": null,
-    "partsWeakness": {}
+    "partsWeakness": null
   },
   {
     "name": {
@@ -819,9 +819,9 @@
       "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
       "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
     },
-    "attackTypes": {},
+    "attackTypes": null,
     "elementWeakness": null,
-    "partsWeakness": {}
+    "partsWeakness": null
   },
   {
     "name": {
@@ -836,9 +836,9 @@
       "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
       "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
     },
-    "attackTypes": {},
+    "attackTypes": null,
     "elementWeakness": null,
-    "partsWeakness": {}
+    "partsWeakness": null
   },
   {
     "name": {
@@ -858,7 +858,7 @@
       "enraged": "technical"
     },
     "elementWeakness": "ice",
-    "partsWeakness": {}
+    "partsWeakness": null
   },
   {
     "name": {
@@ -873,9 +873,9 @@
       "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
       "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
     },
-    "attackTypes": {},
+    "attackTypes": null,
     "elementWeakness": null,
-    "partsWeakness": {}
+    "partsWeakness": null
   },
   {
     "name": {
@@ -920,7 +920,7 @@
       "enraged": "technical"
     },
     "elementWeakness": "fire",
-    "partsWeakness": {}
+    "partsWeakness": null
   },
   {
     "name": {
@@ -935,9 +935,9 @@
       "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
       "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
     },
-    "attackTypes": {},
+    "attackTypes": null,
     "elementWeakness": null,
-    "partsWeakness": {}
+    "partsWeakness": null
   },
   {
     "name": {
@@ -952,9 +952,9 @@
       "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
       "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
     },
-    "attackTypes": {},
+    "attackTypes": null,
     "elementWeakness": null,
-    "partsWeakness": {}
+    "partsWeakness": null
   },
   {
     "name": {
@@ -974,7 +974,7 @@
       "enraged": "speed"
     },
     "elementWeakness": "fire",
-    "partsWeakness": {}
+    "partsWeakness": null
   },
   {
     "name": {
@@ -1085,9 +1085,9 @@
       "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
       "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
     },
-    "attackTypes": {},
+    "attackTypes": null,
     "elementWeakness": null,
-    "partsWeakness": {}
+    "partsWeakness": null
   },
   {
     "name": {
@@ -1155,7 +1155,7 @@
       "enraged": "power"
     },
     "elementWeakness": "water",
-    "partsWeakness": {}
+    "partsWeakness": null
   },
   {
     "name": {
@@ -1170,9 +1170,9 @@
       "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
       "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
     },
-    "attackTypes": {},
+    "attackTypes": null,
     "elementWeakness": null,
-    "partsWeakness": {}
+    "partsWeakness": null
   },
   {
     "name": {
@@ -1187,9 +1187,9 @@
       "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
       "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
     },
-    "attackTypes": {},
+    "attackTypes": null,
     "elementWeakness": null,
-    "partsWeakness": {}
+    "partsWeakness": null
   },
   {
     "name": {
@@ -1204,9 +1204,9 @@
       "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
       "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
     },
-    "attackTypes": {},
+    "attackTypes": null,
     "elementWeakness": null,
-    "partsWeakness": {}
+    "partsWeakness": null
   },
   {
     "name": {
@@ -1271,9 +1271,9 @@
       "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
       "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
     },
-    "attackTypes": {},
+    "attackTypes": null,
     "elementWeakness": null,
-    "partsWeakness": {}
+    "partsWeakness": null
   },
   {
     "name": {
@@ -1358,9 +1358,9 @@
       "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
       "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
     },
-    "attackTypes": {},
+    "attackTypes": null,
     "elementWeakness": null,
-    "partsWeakness": {}
+    "partsWeakness": null
   },
   {
     "name": {
@@ -1375,9 +1375,9 @@
       "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
       "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
     },
-    "attackTypes": {},
+    "attackTypes": null,
     "elementWeakness": null,
-    "partsWeakness": {}
+    "partsWeakness": null
   },
   {
     "name": {
@@ -1392,9 +1392,9 @@
       "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
       "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
     },
-    "attackTypes": {},
+    "attackTypes": null,
     "elementWeakness": null,
-    "partsWeakness": {}
+    "partsWeakness": null
   },
   {
     "name": {
@@ -1409,9 +1409,9 @@
       "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
       "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
     },
-    "attackTypes": {},
+    "attackTypes": null,
     "elementWeakness": null,
-    "partsWeakness": {}
+    "partsWeakness": null
   },
   {
     "name": {
@@ -1547,9 +1547,9 @@
       "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
       "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
     },
-    "attackTypes": {},
+    "attackTypes": null,
     "elementWeakness": null,
-    "partsWeakness": {}
+    "partsWeakness": null
   },
   {
     "name": {
@@ -1589,9 +1589,9 @@
       "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
       "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
     },
-    "attackTypes": {},
+    "attackTypes": null,
     "elementWeakness": null,
-    "partsWeakness": {}
+    "partsWeakness": null
   },
   {
     "name": {
@@ -1657,7 +1657,7 @@
       "enraged": "power"
     },
     "elementWeakness": null,
-    "partsWeakness": {}
+    "partsWeakness": null
   },
   {
     "name": {
@@ -1874,11 +1874,11 @@
     },
     "elementWeakness": "ice",
     "partsWeakness": {
-      "Head": "Blunt",
-      "Needle": "Pierce",
-      "Legs": "Slash",
-      "Stomach": "Slash",
-      "Chest": "Pierce"
+      "head": "Blunt",
+      "needle": "Pierce",
+      "legs": "Slash",
+      "stomach": "Slash",
+      "chest": "Pierce"
     }
   },
   {
@@ -1899,7 +1899,7 @@
       "enraged": "power"
     },
     "elementWeakness": null,
-    "partsWeakness": {}
+    "partsWeakness": null
   },
   {
     "name": {
@@ -1985,9 +1985,9 @@
       "en": "Touchez le monstre avec un marqueur et battez-le rapidement pour augmenter les chances de repli.",
       "fr": "Touchez le monstre avec un marqueur et battez-le rapidement pour augmenter les chances de repli."
     },
-    "attackTypes": {},
+    "attackTypes": null,
     "elementWeakness": null,
-    "partsWeakness": {}
+    "partsWeakness": null
   },
   {
     "name": {
@@ -2270,9 +2270,9 @@
       "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
       "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
     },
-    "attackTypes": {},
+    "attackTypes": null,
     "elementWeakness": null,
-    "partsWeakness": {}
+    "partsWeakness": null
   },
   {
     "name": {
@@ -2287,9 +2287,9 @@
       "en": null,
       "fr": null
     },
-    "attackTypes": {},
+    "attackTypes": null,
     "elementWeakness": null,
-    "partsWeakness": {}
+    "partsWeakness": null
   },
   {
     "name": {
@@ -2304,9 +2304,9 @@
       "en": null,
       "fr": null
     },
-    "attackTypes": {},
+    "attackTypes": null,
     "elementWeakness": null,
-    "partsWeakness": {}
+    "partsWeakness": null
   },
   {
     "name": {
@@ -2321,9 +2321,9 @@
       "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
       "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
     },
-    "attackTypes": {},
+    "attackTypes": null,
     "elementWeakness": null,
-    "partsWeakness": {}
+    "partsWeakness": null
   },
   {
     "name": {
@@ -2363,9 +2363,9 @@
       "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
       "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
     },
-    "attackTypes": {},
+    "attackTypes": null,
     "elementWeakness": null,
-    "partsWeakness": {}
+    "partsWeakness": null
   },
   {
     "name": {
@@ -2380,9 +2380,9 @@
       "en": "Empêchez le monstre de planer avec une bombe flash, puis lancez une attaque d'élément foudre pour grandement augmenter les chances de repli.",
       "fr": "Empêchez le monstre de planer avec une bombe flash, puis lancez une attaque d'élément foudre pour grandement augmenter les chances de repli."
     },
-    "attackTypes": {},
+    "attackTypes": null,
     "elementWeakness": null,
-    "partsWeakness": {}
+    "partsWeakness": null
   },
   {
     "name": {
@@ -2397,9 +2397,9 @@
       "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
       "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
     },
-    "attackTypes": {},
+    "attackTypes": null,
     "elementWeakness": null,
-    "partsWeakness": {}
+    "partsWeakness": null
   },
   {
     "name": {
@@ -2414,9 +2414,9 @@
       "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
       "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
     },
-    "attackTypes": {},
+    "attackTypes": null,
     "elementWeakness": null,
-    "partsWeakness": {}
+    "partsWeakness": null
   },
   {
     "name": {
@@ -2597,9 +2597,9 @@
       "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
       "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
     },
-    "attackTypes": {},
+    "attackTypes": null,
     "elementWeakness": null,
-    "partsWeakness": {}
+    "partsWeakness": null
   },
   {
     "name": {
@@ -2646,7 +2646,7 @@
       "enraged": "technical"
     },
     "elementWeakness": "ice",
-    "partsWeakness": {}
+    "partsWeakness": null
   },
   {
     "name": {
@@ -2661,9 +2661,9 @@
       "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
       "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
     },
-    "attackTypes": {},
+    "attackTypes": null,
     "elementWeakness": null,
-    "partsWeakness": {}
+    "partsWeakness": null
   },
   {
     "name": {
@@ -2678,9 +2678,9 @@
       "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
       "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
     },
-    "attackTypes": {},
+    "attackTypes": null,
     "elementWeakness": null,
-    "partsWeakness": {}
+    "partsWeakness": null
   },
   {
     "name": {
@@ -2762,9 +2762,9 @@
       "en": "Ce monstre ne peut pas être poursuivi vers sa tanière.",
       "fr": "Ce monstre ne peut pas être poursuivi vers sa tanière."
     },
-    "attackTypes": {},
+    "attackTypes": null,
     "elementWeakness": null,
-    "partsWeakness": {}
+    "partsWeakness": null
   },
   {
     "name": {

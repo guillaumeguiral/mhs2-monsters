@@ -24,7 +24,10 @@ export default {
       return props.keyword
         ? props.content.replace(
             new RegExp(props.keyword.trim(), 'ig'),
-            (match) => '<span class="app-highlight">' + match + '</span>'
+            (match) =>
+              '<span class="text-indigo-600 bg-indigo-50 underline">' +
+              match +
+              '</span>'
           )
         : props.content;
     });
