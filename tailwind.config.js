@@ -1,3 +1,5 @@
+const colors = require('tailwindcss/colors');
+
 module.exports = {
   purge: ['./index.html', './src/**/*.{vue,js,ts,jsx,tsx}'],
   darkMode: 'class',
@@ -5,7 +7,12 @@ module.exports = {
     fontFamily: {
       sans: ['Poppins', 'system-ui', 'sans-serif'],
     },
-    extend: {},
+    extend: {
+      colors: {
+        blue: colors.sky,
+        green: colors.lime,
+      },
+    },
   },
   variants: {
     extend: {},

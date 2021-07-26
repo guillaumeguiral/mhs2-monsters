@@ -89,7 +89,7 @@
     "elementWeakness": "water",
     "partsWeakness": {
       "nose": "blunt",
-      "body": "pierce"
+      "body": "piercing"
     }
   },
   {
@@ -111,7 +111,7 @@
     },
     "elementWeakness": "ice",
     "partsWeakness": {
-      "body": "pierce"
+      "body": "piercing"
     }
   },
   {
@@ -301,7 +301,7 @@
       "head": "blunt",
       "body": "slash",
       "legs": "slash",
-      "tail": "pierce"
+      "tail": "piercing"
     }
   },
   {
@@ -327,7 +327,7 @@
       "head": "blunt",
       "body": "slash",
       "legs": "slash",
-      "tail": "pierce"
+      "tail": "piercing"
     }
   },
   {
@@ -350,9 +350,9 @@
     "elementWeakness": "water",
     "partsWeakness": {
       "head": null,
-      "wings": "pierce",
-      "stomach": "pierce",
-      "tail": "pierce"
+      "wings": "piercing",
+      "stomach": "piercing",
+      "tail": "piercing"
     }
   },
   {
@@ -375,7 +375,7 @@
     "elementWeakness": "ice",
     "partsWeakness": {
       "head": "blunt",
-      "wings": "pierce",
+      "wings": "piercing",
       "stomach": "blunt",
       "tail": "slash"
     }
@@ -402,7 +402,7 @@
       "head": "blunt",
       "stomach": "slash",
       "tail": "slash",
-      "wings": "pierce"
+      "wings": "piercing"
     }
   },
   {
@@ -495,7 +495,7 @@
       "head": "slash",
       "body": "slash",
       "fists": "blunt",
-      "tail": "pierce"
+      "tail": "piercing"
     }
   },
   {
@@ -554,7 +554,7 @@
     },
     "elementWeakness": "ice",
     "partsWeakness": {
-      "back": "pierce",
+      "back": "piercing",
       "stomach": "blunt",
       "tail": "slash"
     }
@@ -613,7 +613,7 @@
     "elementWeakness": "fire",
     "partsWeakness": {
       "head": "blunt",
-      "body": "pierce",
+      "body": "piercing",
       "tail": "slash"
     }
   },
@@ -637,7 +637,7 @@
     "elementWeakness": "ice",
     "partsWeakness": {
       "head": "blunt",
-      "body": "pierce",
+      "body": "piercing",
       "tail": "slash"
     }
   },
@@ -686,7 +686,7 @@
     "elementWeakness": "ice",
     "partsWeakness": {
       "horn": "blunt",
-      "legs": "pierce",
+      "legs": "piercing",
       "tail": "slash"
     }
   },
@@ -759,7 +759,7 @@
     "elementWeakness": "fire",
     "partsWeakness": {
       "body": "blunt",
-      "legs": "slashing",
+      "legs": "slash",
       "tail": "blunt"
     }
   },
@@ -899,7 +899,7 @@
     "partsWeakness": {
       "head": "slash",
       "body": "blunt",
-      "tail": "nothing"
+      "tail": null
     }
   },
   {
@@ -1043,7 +1043,7 @@
     },
     "elementWeakness": "fire",
     "partsWeakness": {
-      "head": "pierce",
+      "head": "piercing",
       "stomach": "slash",
       "tail": "slash"
     }
@@ -1067,7 +1067,7 @@
     },
     "elementWeakness": "fire",
     "partsWeakness": {
-      "head": "pierce",
+      "head": "piercing",
       "stomach": "slash",
       "tail": "slash"
     }
@@ -1294,7 +1294,7 @@
     },
     "elementWeakness": "fire",
     "partsWeakness": {
-      "head": "pierce",
+      "head": "piercing",
       "body": "blunt"
     }
   },
@@ -1318,7 +1318,7 @@
     },
     "elementWeakness": "water",
     "partsWeakness": {
-      "head": "pierce",
+      "head": "piercing",
       "body": "slash"
     }
   },
@@ -1457,8 +1457,8 @@
     "partsWeakness": {
       "head": "slash",
       "stomach": "blunt",
-      "tail": "pierce",
-      "wings": "pierce"
+      "tail": "piercing",
+      "wings": "piercing"
     }
   },
   {
@@ -1508,7 +1508,7 @@
     "partsWeakness": {
       "back": "slash",
       "body": "blunt",
-      "tail": "pierce"
+      "tail": "piercing"
     }
   },
   {
@@ -1612,7 +1612,7 @@
     },
     "elementWeakness": "fire",
     "partsWeakness": {
-      "head": "pierce",
+      "head": "piercing",
       "stomach": "slash"
     }
   },
@@ -1635,7 +1635,7 @@
     },
     "elementWeakness": "fire",
     "partsWeakness": {
-      "head": "pierce",
+      "head": "piercing",
       "stomach": "slash"
     }
   },
@@ -1680,7 +1680,7 @@
     "partsWeakness": {
       "body": "slash",
       "legs": "slash",
-      "tail": "pierce"
+      "tail": "piercing"
     }
   },
   {
@@ -1702,10 +1702,10 @@
     },
     "elementWeakness": "thunder",
     "partsWeakness": {
-      "horn": "pierce",
+      "horn": "piercing",
       "stomach": "slash",
-      "legs": "pierce",
-      "tail": "pierce"
+      "legs": "piercing",
+      "tail": "piercing"
     }
   },
   {
@@ -1728,8 +1728,8 @@
     "elementWeakness": "ice",
     "partsWeakness": {
       "horn": null,
-      "legs": "pierce",
-      "tail": "pierce"
+      "legs": "piercing",
+      "tail": "piercing"
     }
   },
   {
@@ -1751,9 +1751,9 @@
     },
     "elementWeakness": "thunder",
     "partsWeakness": {
-      "head": "pierce",
-      "stomach": "pierce",
-      "tail": "pierce"
+      "head": "piercing",
+      "stomach": "piercing",
+      "tail": "piercing"
     }
   },
   {
@@ -1775,8 +1775,8 @@
     },
     "elementWeakness": "thunder",
     "partsWeakness": {
-      "head": "pierce",
-      "stomach": "pierce",
+      "head": "piercing",
+      "stomach": "piercing",
       "tail": "slash"
     }
   },
@@ -1799,9 +1799,9 @@
     },
     "elementWeakness": "thunder",
     "partsWeakness": {
-      "head": "pierce",
+      "head": "piercing",
       "stomach": "slash",
-      "tail": "pierce"
+      "tail": "piercing"
     }
   },
   {
@@ -1849,10 +1849,10 @@
     "elementWeakness": "fire",
     "partsWeakness": {
       "head": "blunt",
-      "needle": "pierce",
+      "needle": "piercing",
       "legs": "slash",
       "stomach": "slash",
-      "chest": "pierce"
+      "chest": "piercing"
     }
   },
   {
@@ -1874,11 +1874,11 @@
     },
     "elementWeakness": "ice",
     "partsWeakness": {
-      "head": "Blunt",
-      "needle": "Pierce",
-      "legs": "Slash",
-      "stomach": "Slash",
-      "chest": "Pierce"
+      "head": "blunt",
+      "needle": "piercing",
+      "legs": "slash",
+      "stomach": "slash",
+      "chest": "piercing"
     }
   },
   {
@@ -1920,7 +1920,7 @@
     },
     "elementWeakness": "fire",
     "partsWeakness": {
-      "neckpouch": "pierce",
+      "neckpouch": "piercing",
       "body": "slash"
     }
   },
@@ -1943,9 +1943,9 @@
     },
     "elementWeakness": "dragon",
     "partsWeakness": {
-      "back": "pierce",
+      "back": "piercing",
       "body": "slash",
-      "tail": "pierce"
+      "tail": "piercing"
     }
   },
   {
@@ -1967,7 +1967,7 @@
     },
     "elementWeakness": "thunder",
     "partsWeakness": {
-      "back": "pierce",
+      "back": "piercing",
       "body": "blunt",
       "tail": "slash"
     }
@@ -2227,10 +2227,10 @@
     },
     "elementWeakness": "fire",
     "partsWeakness": {
-      "seltas": "pierce",
-      "head": "pierce",
+      "seltas": "piercing",
+      "head": "piercing",
       "legs": "blunt",
-      "body": "pierce"
+      "body": "piercing"
     }
   },
   {
@@ -2253,7 +2253,7 @@
     "elementWeakness": "ice",
     "partsWeakness": {
       "head": "slash",
-      "stomach": "pierce",
+      "stomach": "piercing",
       "legs": "blunt"
     }
   },
@@ -2346,7 +2346,7 @@
     "partsWeakness": {
       "head": "slash",
       "stomach": "slash",
-      "wings": "pierce",
+      "wings": "piercing",
       "legs": "slash"
     }
   },
@@ -2624,7 +2624,7 @@
       "head": "slash",
       "stomach": "slash",
       "tail": "slash",
-      "wings": "pierce",
+      "wings": "piercing",
       "frostScale": "blunt"
     }
   },
@@ -2724,7 +2724,7 @@
     },
     "elementWeakness": "ice",
     "partsWeakness": {
-      "head": "pierce"
+      "head": "piercing"
     }
   },
   {
@@ -2746,7 +2746,7 @@
     },
     "elementWeakness": "water",
     "partsWeakness": {
-      "head": "pierce"
+      "head": "piercing"
     }
   },
   {
@@ -2811,8 +2811,8 @@
     },
     "elementWeakness": "ice",
     "partsWeakness": {
-      "head": "pierce",
-      "body": "pierce",
+      "head": "piercing",
+      "body": "piercing",
       "tail": "slash"
     }
   },
@@ -2860,7 +2860,7 @@
     "elementWeakness": "thunder",
     "partsWeakness": {
       "head": "blunt",
-      "body": "pierce",
+      "body": "piercing",
       "tail": "slash"
     }
   }

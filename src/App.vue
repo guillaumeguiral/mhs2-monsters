@@ -1,33 +1,84 @@
 <template>
-  <div class="container mx-auto py-4">
-    <div class="px-7 py-2">
-      <input
-        type="text"
-        v-model="search"
-        placeholder="Rechercher ..."
-        class="
-          w-full
-          px-4
-          py-2
-          text-xl
-          bg-transparent
-          border border-gray-300
-          rounded-lg
-          shadow-sm
-          focus:outline-none
-          focus:ring-2
-          focus:ring-indigo-600
-          focus:border-indigo-600
-        "
-      />
+  <div
+    class="
+      sticky
+      top-0
+      w-full
+      px-7
+      py-5
+      flex flex-wrap
+      md:flex-nowrap
+      items-center
+      bg-white
+      shadow
+    "
+  >
+    <div
+      class="
+        w-full
+        md:w-auto
+        mb-3
+        md:mb-0
+        text-center
+        md:text-left md:text-lg
+        font-semibold
+        md:font-normal
+      "
+    >
+      MHS2 Monsters
     </div>
+    <input
+      type="text"
+      v-model="search"
+      placeholder="Rechercher ..."
+      class="
+        mx-0
+        md:mx-4
+        px-4
+        py-2
+        flex-grow
+        bg-white
+        border border-gray-400
+        rounded-lg
+        focus:outline-none
+        focus:ring-2
+        focus:ring-indigo-600
+        focus:border-indigo-600
+      "
+    />
+    <button
+      class="
+        ml-4
+        md:ml-0
+        px-4
+        py-2
+        bg-indigo-600
+        text-white
+        rounded-lg
+        hover:bg-indigo-500
+      "
+      @click="onResetSearch"
+    >
+      Effacer
+    </button>
+  </div>
+  <div class="container mx-auto">
     <div class="flex flex-wrap p-4 items-stretch">
       <div
         v-for="(monster, index) in filteredMonsters"
         :key="index"
         class="w-full md:w-1/2 lg:w-1/3 p-3"
       >
-        <div class="h-full bg-white rounded-lg shadow-md">
+        <div
+          class="
+            h-full
+            bg-white
+            rounded-lg
+            shadow
+            hover:shadow-lg
+            transition-shadow
+          "
+        >
           <!-- Name -->
           <div class="px-4 pt-4 text-xl">
             <AppHighlight :content="monster.name.fr" :keyword="search" />
@@ -67,11 +118,16 @@
               <div class="text-sm text-gray-600">
                 {{ attacks[attack] }}
               </div>
+              <img
+                :src="`/images/icon-${type}.png`"
+                :alt="type"
+                class="block mx-auto w-10 my-1"
+              />
               <div
-                class="mt-1 font-semibold"
+                class="text-sm font-semibold"
                 :class="{
-                  'text-red-600': type === 'power',
-                  'text-blue-600': type === 'speed',
+                  'text-red-700': type === 'power',
+                  'text-blue-700': type === 'speed',
                   'text-green-600': type === 'technical',
                 }"
               >
@@ -88,16 +144,27 @@
               v-for="(weakness, part) in monster.partsWeakness"
               class="flex-1 text-center p-2"
             >
-              <div class="text-sm text-indigo-400">
+              <img
+                :src="`/images/icon-${part}.png`"
+                :alt="part"
+                class="block mx-auto w-8"
+              />
+              <div class="my-1 text-gray-500">
                 {{ parts[part] }}
               </div>
-              <div>{{ weaknessTypes[weakness] }}</div>
+              <div v-if="weakness">
+                <img
+                  :src="`/images/icon-${weakness}.png`"
+                  :alt="part"
+                  class="block mx-auto w-8"
+                />
+              </div>
             </div>
           </div>
           <!-- Retreat -->
           <div
             v-if="monster.retreat && monster.retreat.fr"
-            class="p-4 italic text-sm"
+            class="p-4 italic text-sm text-center"
           >
             {{ monster.retreat.fr }}
           </div>
@@ -162,6 +229,12 @@ export default {
       technical: 'Technique',
     };
 
+    const counterTypes = {
+      power: 'speed',
+      speed: 'technical',
+      technical: 'power',
+    };
+
     const parts = {
       head: 'Tête',
       body: 'Corps',
@@ -171,7 +244,7 @@ export default {
       iceTail: 'iceTail',
       nose: 'Nez',
       stomach: 'Estomac',
-      legs: 'legs',
+      legs: 'Pattes',
       wings: 'Ailes',
       spikes: 'Piques',
       fists: 'Poings',
@@ -182,7 +255,7 @@ export default {
       rock: 'Rocher',
       needle: 'Aiguille',
       chest: 'Torse',
-      neckpouch: 'neckpouch',
+      neckpouch: 'Cou',
       seltas: 'seltas',
       frostScale: 'frostScale',
     };
@@ -190,7 +263,7 @@ export default {
     const weaknessTypes = {
       blunt: 'Blunt',
       slash: 'Entailler',
-      pierce: 'Transpercer',
+      piercing: 'Transpercer',
     };
 
     const getAttacks = () => {
@@ -203,6 +276,10 @@ export default {
       );
     };
 
+    const onResetSearch = () => {
+      search.value = '';
+    };
+
     return {
       search,
       filteredMonsters,
@@ -210,6 +287,7 @@ export default {
       types,
       parts,
       weaknessTypes,
+      onResetSearch,
     };
   },
 };
