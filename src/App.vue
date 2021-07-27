@@ -63,7 +63,7 @@
     </button>
   </div>
   <div class="container mx-auto">
-    <div class="flex flex-wrap p-4 items-stretch">
+    <div class="flex flex-wrap p-4 justify-center items-stretch">
       <div
         v-for="(monster, index) in filteredMonsters"
         :key="index"
