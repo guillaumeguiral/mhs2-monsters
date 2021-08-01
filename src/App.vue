@@ -9,6 +9,7 @@
       flex flex-wrap
       md:flex-nowrap
       items-center
+      gap-2
       bg-white
       shadow
     "
@@ -17,8 +18,6 @@
       class="
         w-full
         md:w-auto
-        mb-3
-        md:mb-0
         text-center
         md:text-left md:text-lg
         font-semibold
@@ -48,14 +47,14 @@
     />
     <button
       class="
-        ml-4
-        md:ml-0
         px-4
         py-2
         bg-indigo-600
         text-white
         rounded-lg
         hover:bg-indigo-500
+        hidden
+        sm:block
       "
       @click="onResetSearch"
     >
