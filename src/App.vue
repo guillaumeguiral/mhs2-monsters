@@ -12,6 +12,7 @@
       gap-2
       bg-white
       shadow
+      dark:bg-gray-800
     "
   >
     <div
@@ -22,6 +23,7 @@
         md:text-left md:text-lg
         font-semibold
         md:font-normal
+        dark:text-gray-400
       "
     >
       MHS2 Monsters
@@ -43,6 +45,7 @@
         focus:ring-2
         focus:ring-indigo-600
         focus:border-indigo-600
+        dark:bg-gray-800 dark:text-gray-400 dark:border-gray-500
       "
     />
     <button
@@ -76,6 +79,7 @@
             shadow
             hover:shadow-lg
             transition-shadow
+            dark:bg-gray-800 dark:text-gray-400
           "
         >
           <!-- Name -->
@@ -83,7 +87,7 @@
             <AppHighlight :content="monster.name.fr" :keyword="search" />
           </div>
           <!-- Location -->
-          <div class="px-4 mt-2 text-gray-400">
+          <div class="px-4 mt-2 text-gray-500">
             Location : {{ monster.location.fr || 'Inconnue' }}
           </div>
           <!-- Weakness -->
@@ -108,13 +112,14 @@
               gap-2
               bg-gray-50
               border-gray-300 border-t border-b
+              dark:bg-gray-900 dark:border-gray-700
             "
           >
             <div
               v-for="(type, attack) in monster.attackTypes"
               class="flex-1 text-center"
             >
-              <div class="text-sm text-gray-600">
+              <div class="text-sm text-gray-600 dark:text-gray-400">
                 {{ attacks[attack] }}
               </div>
               <img
@@ -148,7 +153,7 @@
                 :alt="part"
                 class="block mx-auto w-8"
               />
-              <div class="my-1 text-gray-500">
+              <div class="my-1 text-gray-500 dark:text-gray-400">
                 {{ parts[part] }}
               </div>
               <div v-if="weakness">

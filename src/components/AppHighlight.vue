@@ -25,7 +25,7 @@ export default {
         ? props.content.replace(
             new RegExp(props.keyword.trim(), 'ig'),
             (match) =>
-              '<span class="text-indigo-600 bg-indigo-50 underline">' +
+              '<span class="text-indigo-600 bg-indigo-50 underline dark:text-gray-200 dark:bg-indigo-600">' +
               match +
               '</span>'
           )
